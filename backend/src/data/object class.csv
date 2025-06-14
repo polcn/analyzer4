@@ -1,0 +1,1914 @@
+Object Class,Object Class Description
+LIEFERUNG,Delivery
+VERKBELEG,Sales Order
+MATERIAL,Material Master
+/SCDL/DELIVERY,EWM: Delivery
+CHARGE_L,Transportation Cost
+/ACCGO/ACMBP,Change Log of ACM BP Transaction Tab
+/ACCGO/ACMCON,Contract: Change Document for ACM
+/ACCGO/ACMLDC,ACM: CHange document for ldc
+/ACCGO/CRDS_AS,Change Log History of Credit Sale Audit Sequence Master
+/ACCGO/DPP_CAK,DPP Logging for Contract header
+/ACCGO/DPP_LOG,DPP change log
+/ACCGO/FEE,Change Log for Fee assignment on Logistic Documents
+/ACCGO/SPOT_CON,Change Document for Spot Contract
+/ACCGO/STOA,ACM: Change Document Object for Storage Agreement
+/AIF/EXT_CONTAC,Change Documents for AIF external Contact
+/AIF/VAL_MAP,Change Document for AIF Value Mapping
+/ATL/FORECHIST,Foreclosure History
+/BOFU/BOTC,BOPF Test BO: Test Customer
+/BOFU/BUPA_OM,Output Management Change document for BP
+/BOFU/DEMO_CUST,Demo customer Change document Object
+/CEERE/SDANP,Changes in table SDANP - Property tax
+/CPD/PLAN_HDR,Change Document for Commercial Project Financial Plans
+/CPD/PWS_BO_MP,Change Document for Commercial Project Header
+/CPD/SS_CHDOC,Change Document for Commercial Project Roles and Staffing
+/DMBE/DEALOBJEC,Change Documents  for Deal
+/GSINS/BP_NLH,Business Partner loc. NL-HCM
+/GSINS/BRWHT_EX,Insurance Brasil - Withholding Tax Exemptions
+/GSINS/INH_EXTD,Gross/Net Calculation: External Deduction
+/GSINS/TRCOM,Tramer TR: Additional Claim Data for Transformation
+/IAM/ACTIVITY,Change Document Object for IAM Activity
+/IAM/ISSUE,Change Document Object for IAM Issue
+/IBS/RB_CD_ECM,Manual ECF Contract Management
+/IBS/RB_CD_KTO,RBD: Master Data Account
+/IBS/RB_CD_KTOD,RBD: Account Key Date of a RBD Account
+/IBX/CD_CONTR,IPX: Contract Data
+/INCMD/CD_GRP,Change Document Object for INC Master Data Groups
+/ISDFPS/EX_BWUL,SDP-BW: External Batches for Batch Where-Used List
+/ISDFPS/FLIGHT,Flight
+/ISDFPS/FORBE,HR - Business Entity - Relationship
+/ISDFPS/FORCE,Force Element
+/ISDFPS/FORCER,Reference Force Element
+/ISDFPS/FORCMD,Task Organizations
+/ISDFPS/FORCN,HR - Real Estate Contract Relationship
+/ISDFPS/FORDEL,Planned Delimitation and Deletion Operations
+/ISDFPS/FOREPA,Force Element - Equipment Package Relationship
+/ISDFPS/FORIPO,/ISDFPS/FORIPO
+/ISDFPS/FORMC,Force Element - Material Container Relationship
+/ISDFPS/FORMCH,HR - Material Container Relationship
+/ISDFPS/FORMNT,Maintenance Relationships
+/ISDFPS/FORMPH,HR - Material Planning Object Relationship
+/ISDFPS/FORMPO,Force Element - Material Planning Object Relationship
+/ISDFPS/FOROTH,Other Relationships
+/ISDFPS/FORRIC,Force Element - Reportable Item Code Relationship
+/ISDFPS/FORRR,/ISDFPS/FORRR
+/ISDFPS/FORSUP,Supply Relationships
+/ISDFPS/FORTOB,Relationships to Technical Objects
+/ISDFPS/FORVPA,Force Element - Provisions Package Relationship
+/ISDFPS/LM_EQUI,Change Documents for Additional DFPS Tables for Equipment
+/ISDFPS/NSNID,NATO Stock Number
+/ISDFPS/ORCMD,Task Organization
+/ISDFPS/ORMNT,Maintenance Relationships
+/ISDFPS/OROTH,Additional Relationships
+/ISDFPS/ORSUP,Supply Relationships
+/ISDFPS/ORTOB,Technical Objects
+/ISDFPS/PPEEPAN,Equipment Package
+/ISDFPS/PPEMCN,Material Container
+/ISDFPS/PPEMCR,Material Container - Material Planning Object Relationships
+/ISDFPS/PPEMPAN,Material Packages
+/ISDFPS/PPEMPOA,Alternative for Material Planning Object
+/ISDFPS/PPEMPON,Material Planning Object
+/ISDFPS/PPEMPOR,Relationship of BOM to Material Planning Object
+/ISDFPS/PPEMPOS,Status of Individual Parts of Material Planning Object
+/ISDFPS/PPEMPOV,Model
+/ISDFPS/PPSMPAN,Status of Material Packages
+/ISDFPS/PPSMPOA,Status of Individual Parts of Material Planning Object
+/ISDFPS/PPSMPON,Status of Material Planning Object
+/MVA/AMB_BMGLOB,Global Bonus-Malus Data
+/NFM/MATERIAL,/NFM/: Material
+/PF1/CA,Clearing Agreements for Route
+/PF1/EH,Exception Control
+/PF1/EHSOL,Automatic Postprocessing - Solution Object
+/PF1/EH_OBJ,Exception Object - Error Details
+/PF1/IHBACCOUNT,IHB Account
+/PF1/IHBCOND,IHB Financial Conditions
+/PF1/IHBMDOBJ,IHB Master Data Object
+/PF1/PI,Payment Item
+/PF1/PO,Payment Order
+/PF1/RA,Request Agent
+/PF1/RECAL,recall
+/PF1/ROUTE,Routes in Clearing Area
+/PF1/RULESET,Set of Rules
+/PF1/SLA,/PF1/SLA
+/PLMB/AUTH_SID,Access Control Engine: SID
+/PLMB/CALC_PAR,Calculation parameter
+/PLMB/RCP_MDL,Change Documents for Recipe Modeling
+/PLMB/RCP_RCP,Change Documents for Recipes
+/PLMB/RCP_TXT,Change Documents for Descriptions
+/PLMB/RFO_FRM,Change Documents for Formulas
+/PLMB/RPR_EQR,Change Documents for EQRs
+/PLMB/RPR_PP_M,Change Document for Process Parameter Masters
+/PLMB/RPR_PP_VA,Change Documents for Process Parameter Values
+/PLMB/RPR_RPR,Change Documents for Process
+/PLMI/CR_ENG,Change Document Object for Engineering Change Record
+/PLMI/ER_CI,Change Document for Engineering Record Change Items
+/PLMI/GSS_R2B,Change Documents for Synchronization Recipe to BOM
+/PM0/ABUCIBCTCD,Templates of In-Force Business Configurator
+/PMG/GE_RS_CD,Result Set - Change Documents
+/PMG/MPREMCHDOC,Change Document Object for Premium Per Piece
+/PRA/BP_CUST,Business Partner Customer change document
+/PRA/BP_VEND,Business Partner Vendor change document
+/PRA/CA_KW_MST,Contract Allocation Keep Whole
+/PRA/CI_CPR,Change Process Rules
+/PRA/CI_CPRULES,Change Document for Process Rules
+/PRA/CI_PDXCHNG,Change log object for pdx
+/PRA/DPSEVT_CDO,Change Document Object : DB Table /PRA/DPSEVT_OVRD
+/PRA/EF,Excess Fee: Change Document
+/PRA/FF_CTR_VOL,ONRR Post-Roadmap - Additinal Gas volumes
+/PRA/FF_CTXRF,ONRR Contract / Product code Xref
+/PRA/FF_UCA,Field Fuel UCA Rate Maintenance
+/PRA/FP_AGREE,ONRR-2014 - Agreement
+/PRA/FP_ARC,Adjustment Reason Code Override
+/PRA/FP_ASU,ONRR-2014 - Auto-Suspend
+/PRA/FP_ASUE,ONRR-2014 - Auto-Suspend Exception
+/PRA/FP_CTXRF,ONRR-2014 - Contract / Sales Type XRef
+/PRA/FP_EDT_OVR,ONRR-2014 - Edit Code Override
+/PRA/FP_INDXPRC,ONRR-2014 - Monthly Prices For Index Zones
+/PRA/FP_INT_RT,ONRR-2014 - Interest Rates
+/PRA/FP_LEASE,ONRR-2014 - Lease
+/PRA/FP_MASTER,ONRR-2014 - Master
+/PRA/FP_OWN_GRP,ONRR-2014 - Owner Group
+/PRA/FP_RNT_CRD,ONRR-2014 - Advance Rental Credit
+/PRA/FP_S6RTOVR,ONRR-2014 - Section 6 Rate Override
+/PRA/FP_SOL,ONRR-2014 - Statute of Limitation
+/PRA/FP_SOLE,ONRR-2014 - Statute-of-Limitation Exception
+/PRA/FP_SRC,ONRR-2014 - Suspense Reason Code
+/PRA/GNES_PR_SL,Change log for generic escrow process selection
+/PRA/GT_ASU,Tax 2.0 Gen – Change Doc for Auto Suspend Master
+/PRA/GT_ASUE,Tax 2.0 Gen - Change Doc for Exception Auto suspend Master
+/PRA/GT_ENTITY,Tax 2.0 Gen – Agency Entity Change Document
+/PRA/GT_MASTER,Tax 2.0 Gen - Master Change Document
+/PRA/GT_OPTAXID,Tax 2.0 Gen – Other Party Tax ID Xref log object
+/PRA/GT_PROF,Tax 2.0 Gen - Report profile change object
+/PRA/GT_SOL,Tax 2.0 Gen – Statute of Limitation Change Document
+/PRA/GT_SOLE,Tax 2.0 Gen – Statute of Limitation Exception Change Doc
+/PRA/GT_TAXHST,Tax 2.0 Gen - Generic Tax History Change Doc
+/PRA/GT_TAXTXN,Tax 2.0 Gen – Generic Tax Transactions
+/PRA/KS_ASU,Kansas Tax2.0 Change Doc for Auto Suspend Master
+/PRA/KS_ASUE,Tax 2.0 KS ASUE
+/PRA/KS_CT_TXCL,Kansas Tax 2.0 Change Doc for Tax Class Xref
+/PRA/KS_LEASE,Kansas Tax 2.0 Change Doc for Lease master
+/PRA/KS_MASTER,Kansas Tax 2.0 Change Doc for Master Table
+/PRA/KS_PROF1,Kansas Tax Profile
+/PRA/KS_SOL1,Tax 2.0 - Change Document Object for SOL
+/PRA/KS_SOLE,Tax 2.0 - Kansas Statute of Limitation Exception
+/PRA/KS_TAXRATE,Kansas 2.0 Tax Rate Screen Change Doc
+/PRA/KS_TAXTXN,Tax 2.0 Change Document for Kansas transaction Table
+/PRA/KS_TXCL_XF,Kansas Tax 2.0 Change Doc for Tax Class Xref
+/PRA/ND_ASU,North Dakota Tax2.0 Change Doc for Auto Suspend Master
+/PRA/ND_ASUE,North Dakota : Tax 2.0 Change Doc for ASU Exception
+/PRA/ND_MASTER,North DakotaTax 2.0 Change Doc for Master Table
+/PRA/ND_PROF,Tax 2.0 ND Reporting Profile
+/PRA/ND_SOL,Tax 2.0 ND SOL Change Document
+/PRA/ND_SOLE,Tax 2.0 - North Dakota Statute of Limitation Exception
+/PRA/ND_TAXRATE,North Dakota 2.0 Tax Rate Screen Change Doc
+/PRA/ND_TAXTXN,North Dakota Tax Transaction
+/PRA/OIU_RDOI,Remitter / DOI Cross Reference
+/PRA/OM_MFM,Makrketing Free maint. doc
+/PRA/OWN_COTOVR,Override COT: Change Document
+/PRA/PP_MIN_PAY,Payment Processing - Minimum Pay (Regions)
+/PRA/PP_MKT_OVR,Payment Processing - Marketing Type Override
+/PRA/PP_NRC_VD,Payment Processing - Recoupment Groups - Venture/DOIs
+/PRA/PP_TAX_OVR,Payment Processing - Tax Type Override
+/PRA/PP_WH_RT,Payment Processing - Withholding Rate
+/PRA/R3_OWNOVR,Royalty 2.0 - TX GLO/TAMU Owner Level Reporting Override
+/PRA/R3_OWNXRF,Royalty 2.0 : Royalty Owners Cross Xref
+/PRA/R3_PROF,Roy 2.0 TX - Reporting Profile
+/PRA/R3_ROYHST,Royalty 2.0 - TX GLO - Royalty Transaction History
+/PRA/R3_ROYTXN,Roy 2.0 - Texas GLO/TAMU Royalty Transactions
+/PRA/R3_RRC,Royalty 2.0 Texas GLO
+/PRA/R6_PROF,Roy 2.0 WY - Reporting Profile
+/PRA/R6_ROYHST,Roy 2.0 - WY - Royalty History
+/PRA/R6_ROYTXN,Roy 2.0 - Wyoming Royalty Transactions
+/PRA/RP_PROF,Reporting - Report Profile
+/PRA/RP_ROYOWN,Royalty 2.0 - Owner Change docs.
+/PRA/T3_PROF,Tax 2.0 TX - Reporting Profile
+/PRA/T515_PROF,Tax 2.0 OKGP15 - Reporting Profile
+/PRA/T5_PROF,Tax 2.0 OK - Reporting Profile
+/PRA/T6_OPID,Tax 2.0 - Wyoming BA Operator ID
+/PRA/T6_PROF,Tax 2.0 WY - Reporting Profile
+/PRA/T8_PROF,Tax 2.0 NM - Reporting Profile
+/PRA/T9ISMASTER,Tax 2.0 LA - Incapable / Stripper Master
+/PRA/T9_ASU,Tax 2.0 LA - Auto-Suspend
+/PRA/T9_ASUE,Tax 2.0 LA - Auto-Suspend Exception
+/PRA/T9_LEASE,Tax 2.0 LA - Lease
+/PRA/T9_MASTER,Tax 2.0 LA - Master
+/PRA/T9_PROF,Tax 2.0 LA - Report Profile
+/PRA/T9_PTCXRF,Tax 2.0 LA - Producer/Transporter XRef
+/PRA/T9_SOL,Tax 2.0 LA - Statute of Limitation
+/PRA/T9_SOLE,Tax 2.0 LA - Statute-of-Limitation Exception
+/PRA/T9_TAXHST,Tax 2.0 LA - Tax History
+/PRA/T9_TAXTXN,Tax 2.0 LA - User Tax Transactions
+/PRA/TAPROF21PD,Tax 2.0 CO Sev - Reporting Profile (21PD)
+/PRA/TAX_ALLOVR,Tax Allocation Override Change Document
+/PRA/TA_ASU,Tax 2.0 CO - Auto-Suspend
+/PRA/TA_ASUE,Tax 2.0 CO - Auto-Suspend Exceptions
+/PRA/TA_IASU,Tax 2.0 CO - Auto-Suspend (21PD)
+/PRA/TA_IASUE,Tax 2.0 CO - Auto-Suspend Exceptions (21PD)
+/PRA/TA_ISOL,Tax 2.0 CO - Statute of Limitations (SEV)
+/PRA/TA_ISOLE,Tax 2.0 CO - Statute-of-Limitation Exception (SEV)
+/PRA/TA_ITAXHST,Tax 2.0 CO - Tax History (21PD)
+/PRA/TA_ITAXTXN,Tax 2.0 CO - Tax transactions update (21PD)
+/PRA/TA_LEVY_RT,Tax 2.0 CO - Maintain Levy Rate
+/PRA/TA_OPXREF,Tax 2.0 CO - Transporter to OGCC Payor xref
+/PRA/TA_PROF,Tax 2.0 CO - Report Profile
+/PRA/TA_SOL,Tax 2.0 CO - Statute of Limitation
+/PRA/TA_SOLE,Tax 2.0 CO - Statute-of-Limitation Exception
+/PRA/TA_TAXHST,Tax 2.0 - CO Tax History
+/PRA/TA_TAXTXN,Tax 2.0 CO - Tax Transaction
+/PRA/TEMP_PPOWN,Payment Processing - Owner Info
+/PRA/UTX_ASU,Roy 2.0 - TX UT - Auto Suspend detail
+/PRA/UTX_ASUE,Roy 2.0 -  TX UT ASUE
+/PRA/UTX_LEASE,Roy 2.0 – TX UT Lease Master
+/PRA/UTX_MASTER,Royalty 2.0 - TX UT - Master
+/PRA/UTX_PDCXRF,Roy 2.0 - TX UT - Production Disposition XRef
+/PRA/UTX_PROF,Roy 2.0 – TX UT Report Profile
+/PRA/UTX_PURXRF,Roy 2.0 - TX UT - Customer Vendor Xref with Purchaser ID
+/PRA/UTX_ROYHST,Roy 2.0 - TX UT - Royalty Transaction History
+/PRA/UTX_ROYTXN,Roy 2.0 TX UT - Royalty Transactions
+/PRA/UTX_RRC,Roy 2.0 – TX UT - RRC Master
+/PRA/UTX_RYHSTA,Roy 2.0 - TX UT - Royalty Transaction History (Allocated)
+/PRA/UTX_SOL,Roy 2.0 – TX UT SOL
+/PRA/UTX_SOLE,Roy 2.0 - TX UT Change Document SOLE
+/PRA/UTX_UNIT,UT _ Unit Master
+/PRA/UTX_ZVOL,Roy 2.0 – TX UT Zero Volume Master
+/S4PPM/PROJECT,Change Documents for Projects
+/SAPAPO/CD_LOC,Location
+/SAPAPO/CD_LP,Location Product
+/SAPAPO/CD_LW,Location Product (Warehouse)
+/SAPAPO/CD_ORDG,Order Guideline
+/SAPAPO/CD_PPRD,Partner Product
+/SAPAPO/CD_PR,Product
+/SAPAPO/CD_QT,Quota Arrangement
+/SAPAPO/CD_RES,Resource
+/SAPAPO/CD_TL,Transportation Lane
+/SAPAPO/CD_XC,SNP Supply Profile
+/SAPAPO/CD_XD,PP/DS Requirement Profile
+/SAPAPO/CD_XL,Lot-Size and Days' Supply Profile
+/SAPAPO/CD_XS,SNP Demand Profile
+/SAPAPO/CD_XZ,Deployment Profile
+/SAPCE/FKUA_TAX,Change Documents for Tax Vouchers (UA)
+/SAPCE/IURUBENE,Change Documents for Benefits (RU & UK)
+/SAPCE/IURUSEAL,Change Documents for Seals Management (RU & UK)
+/SAPCE/IUUASBEN,Change Documents for Social Benefits (UA)
+/SAPCE/IUUASUBS,Change Documents for Subsidies (UA)
+/SAPCE/IU_APM,FI-CA: Additional incoming Payment methods extension to CA
+/SAPCEM/SHIPDOC,Shipping Documents
+/SAPPCE/DPCCDOC,Down Payment Chains
+/SAPPO/ORDER,Postprocessing Office
+/SAPPO/WLUSER,Assignment of User/Org. Object to Worklist
+/SAPSLL/CD_CCGR,Change Documents for Control Groupings
+/SAPSLL/CD_CLC,Change Document Object for Classification with Legal Control
+/SAPSLL/CD_CLE,Product Classification for End-Use
+/SAPSLL/CD_CLS,Change Documents for Product Classification
+/SAPSLL/CD_CMD,Change Documents for Classification Master Data
+/SAPSLL/CD_LIC,Change Documents for License Master
+/SCDL/CHM_DF,Change Document for Document Flow Corrections
+/SCDL/CHM_STAT,Check Monitor: Change Docu for Status table
+/SCDL/DELIVERY,Delivery
+/SCMB/BPTM,Business partner: TM specific attributes
+/SCMB/CD_DRV,Driver CD
+/SCMB/PRODSUBLD,eSPP Product Substitution (location dependent)
+/SCMB/PRODSUBLI,eSPP Product Substitution (location independent)
+/SCMB/PRR,Change Document Object for Processor
+/SCMB/TMDL,Transportation Management System
+/SCMTMS/CD_CFIR,Change Document Object for FWSD
+/SCMTMS/CD_FAG,Change Document Freight  Agreement
+/SCMTMS/CD_RATE,TMS BO /SCMTMS/TC_RATES
+/SCMTMS/CD_SCAL,TMS BO /SCMTMS/TC_SCALE
+/SCMTMS/CD_SFIR,Change Document for FSD
+/SCMTMS/CD_TCCS,TMS BO /SCMTMS/TCCS
+/SCMTMS/CD_TDL,Trade Lane Change Document Object
+/SCMTMS/CD_TOR,Change Documents for TOR
+/SCMTMS/CD_TRQ,Change Document for TRQ
+/SCMTMS/CD_TTMP,Change Documents for Tendering Profile
+/SCWM/AQUA_CHD,Check Monitor Change Document for AQUA
+/SCWM/CD_FIXBIN,Change Document Object for Fixed Bin Assignments
+/SCWM/CD_LAGP,Change log for bin master
+/SCWM/CD_PAS,Change Document of Pre-Allocated Stock
+/SCWM/CD_PSASTG,Change Document Object for /SCWM/TPSASTAGE entries
+/SCWM/CD_RACKTY,Change Documents for DB Table /SCWM/RACKTYPE
+/SCWM/CD_WB_BMR,Change Document of Request for WarehouseBilling Meausurement
+/SCWM/CD_WB_MRS,Change Document of Billing Measurement Request Schema
+/SCWM/CHM_DOOR,Change Document Structure for Door Checks
+/SCWM/CHM_HUREF,Check Monitor: Change Document Structure for HUREF Checks
+/SCWM/CHM_LIME,Check Monitor: Change Document for LIME Table
+/SCWM/CHM_MSL,Check Monitor: Change Document for Messagelog Table
+/SCWM/CHM_QUAN,Quant Attributes CHD
+/SCWM/CHM_WOP,Check Monitor: Change Document Structure for WOP Checks
+/SCWM/DELIVERY,Delivery with WM
+/SCWM/DL_DG,Change Documents  for Delivery Dangerous Goods Data
+/SCWM/DL_SERIAL,Change Documents Serial Numbers
+/SCWM/DL_TEXT,WM Long Text for Delivery
+/SCWM/EPD,Change Document Object for Employee Performance Document
+/SCWM/NQUAN_CHD,Change Document for /LIME/NQUAN
+/SCWM/PS_EG,Packaging specification - Level element group
+/SCWM/PS_HDR,"Packaging specification - Header (Header, Content, Level)"
+/SCWM/PS_REL,Packaging specification - Relationship
+/SCWM/PS_WS,Packaging Specification - Workstep
+/SCWM/TATT,Change Document Object for Time and Attendance
+/SCWM/TU,Change Document Object for Transportation Unit
+/SCWM/TUDLV,Change Document Object for TU Assignments
+/SCWM/VEH,Change Document Object for Vehicle
+/SEHS/DG,EHS: Change Document Object - Dangerous Goods
+/SEHS/ESPHR,EHS: Change Documents - Phrases
+/SEHS/HM,EHS: Change Document Object - Hazardous Substance
+/SHCM/D_EE_TAG,Change Document for Tags
+/SRMSMC/SES,Supplier Evaluation Scorecard
+/SRMSMC/SQR,Supplier Qualification Response
+/SRMSMC/SRS,Supplier Evaluation Response
+/SRMSMC/S_CTRL,Supplier's Control Data
+/SRMSMC/S_QMS,Supplier's Quality Management Systems
+/SRMSMC/S_SUST,Supplier's Sustainability Data
+AAA_WIZARD,Authorization Assistant
+ACEDSOBJ,ACEDSOBJ
+ACESOBJ,Change Document Object for S/4 HANA Accrual Engine
+ACO_OBJECT,Object-Related Authorizations (ACO)
+ACO_USER_GROUP,User Groups (ACO)
+ADIP_CSN,SPEC2000: CDOs for locations
+ADIP_PDR,SPEC2000: CDOs for spare part
+ADIP_PDS,SPEC2000: CDOs for suppliers
+ADRESSE,Business Address Services: Address Type 1 + Comm. Data
+ADRESSE2,Business Address Services: Address Type 2 + Comm. Data
+ADRESSE3,Business Address Services: Address Type 3 + Comm. Data
+AD_SPCIPCSN,SPEC2000: Change Documnet Object for SPCIPCSN
+AD_SPCIPEFF,SPEC2000: Change Documnet Object for SPCIPEFF
+AD_SPCIPHDR,SPEC2000: Change Documnet Object for SPCIPHDR
+AD_SPCIPOCH,SPEC2000: Change Documnet Object for SPCIPOCH
+AD_SPCIPOSDS,SPEC2000: Change Documnet Object for SPCIPOSDS
+AD_SPCIPPARTS,SPEC2000: Change Documnet Object for SPCIPPARTS
+AD_SPCIPPDR,SPEC2000: Change Documnet Object for SPCIPPDR
+AD_SPCIPPDS,SPEC2000: Change Documnet Object for SPCIPPDS
+AD_SPCIPPQA,SPEC2000: Change Documnet Object for SPCIPPQA
+AD_SPCIPRPDE,SPEC2000: Change Documnet Object for SPCIPRPDE
+AD_SPCIPUOA,SPEC2000: Change Documnet Object for SPCIPUOA
+AD_SPCIP_CSN,SPEC2000: CDOs for locations
+AD_SPCIP_PDR,SPEC2000: CDOs for spare part
+AD_SPCIP_PDS,SPEC2000: CDOs for suppliers
+AENDBELEG,Change document
+AENNR,Change documents for change master
+AENNR_S4H,Change documents for change master - S4HANA
+AGENCY,Agency Business: Change Documents
+AGENCY_CWB,Complaints: Agency Business
+AINPRICE,Change documents: Active ingredient prices
+AKKP,Foreign Trade: Documentary payments: Fin. doc. processing
+AKKP1,DO NOT USE - change document object is NOT used
+ALESETS,Report Writer ALE sets
+ALLOCATION,"Change doc.: Allocation maintenance (Tables T811C, T811S)"
+AMPL,Table of Approved Manufacturers/Parts
+ANLA,Asset Master Record
+APJ_USER,Application Jobs Users
+APOC_OR_CD,DPP-relevant Change Documents for BO Output Request
+ARCHIVELINK_CD,Change documents for Archivelink
+ARCH_ENQUE,Lock objects for archiving and reorganization
+ARO,Change documents for Asset Retirement Obligations
+ARO_CEP,Change object for Cost Estimation Plan
+ARO_UNDL,Change documents for Underlying object
+ASMODULE,Change documents:
+ATPSUPOBJ,ATP Supply Protection Change Document Object
+AUD_PROJECT,PLM Audit Management
+AUFTEILERB,Allocation table documents
+BANF,Change Documents for Purchase Requisitions
+BANK,Bank Master Data
+BANKA_CUP_IT,Italy: Bank account assignment based on CUP/CIG numbers
+BANK_CUP_IT,Italy: Bank account assignment based on CUP/CIG numbers(new)
+BCA_US_BKK44A,Change documents: BCA account data (US specific)
+BCA_US_BUT000,Change Document Object for BP Incorporation Data
+BCA_US_HOLD,Change Document  :  Holds
+BCA_US_OD,Change document object for Overdraft master data
+BCHAINP,Bank chains (dependent on partner bank)
+BCODE,Thailand branch code change document
+BCONT,business partner contact
+BELEG,Document
+BELEGECS,ECS Items
+BELEGR,DOCUMENTR
+BELEGV,Changes to pre-defined documents
+BELEGX,External document changes
+BERIBEST,Correction Items
+BERIBEST_1,Correction items (Input tax treatment)
+BETRIEB,Site change documents
+BGMKOBJ,Warranty for technical object
+BKK4CHDOC,Open item account
+BKKBALNEWCHDOC,Change Document  :  Balanced Periods for Account Balancing
+BKKBPCHDOC,Checking Account Extension BP
+BKKCCCHDOC,Change Documents for Special Cash Concentration Tables
+BKKCORR_REC,Change Document  :  Correspondence Receiver Admn.
+BKKENTC,BKK42_NTC
+BKKFACHDOC,Change Documents for Allowance Amount Management
+BKKHYCHDOC,Change Documents for Hierarchies as of 2.0
+BKKHYCHNG,Change Documents for Hierarchies
+BKKICCHCOC,Change Documents for Interest A/D specific Tables
+BKKNTC,Change Document For BKKNTC
+BKKPAYPLAN,BKKPAYPLAN: Planned Payment Order CHDOC
+BKKPYCHDOC,Structured Note to Payee
+BKKSTACKST,BCA: Check Stack Management
+BKKT_TDCHDOC,Change Object for Term Agreement of Fixed-Term Deposit
+BKK_GL_VA,Change Document for BCA Individual Value Adjustment
+BKK_PRENOTE,Change Document  :  Prenote
+BPAR,Business Partner
+BPDK,Change Documents Budget Entry Documents
+BPVOCES,Business Partner Extension - VAT on Cash
+BPVOCPT,Business Partner Extension VAT Cash Accounting Portugal
+BP_SI_0001,Business partner - Standing instructions: Payment detail
+BP_SI_0002,Business partner - Standing instructions: Correspondence
+BP_SI_0003,Business partner - Standing instructions: Transaction auth.
+BP_SI_0004,Business partner - Standing instructions: Derived flows
+BUPA_ADR,Business partner: Addresses
+BUPA_BANK,Business Partner: Bank Details
+BUPA_BP3010,Additional Data
+BUPA_BUB,Business Partner Relationships: Application BUB (obsolete)
+BUPA_BUP,Business partner: Use of BUP
+BUPA_BUR,Business Partner Relationship: Application BUR (obsolete)
+BUPA_BUT0BANK,Business Partner: Partner = Bank
+BUPA_CACS,Business Partner: CACS Application
+BUPA_CLASS,CRM BP Classification
+BUPA_DNC,Business Partner: Do Not Call List
+BUPA_FRG0010,CRM BP Sales Set
+BUPA_FRG0020,CRM BP Shipping Set
+BUPA_FRG0030,CRM BP Pricing Set
+BUPA_FRG0040,CRM BP Sales Classification Set
+BUPA_FRG0050,CRM BP Status
+BUPA_FRG0060,CRM BP Appointment Set
+BUPA_FRG0070,CRM BP Excluded Function Set
+BUPA_FRG0080,CRM BP Partner Function Set
+BUPA_FRG0100,CRM BP Status/Sales Area
+BUPA_FRG0130,CRM Business Partner: Business Agreement
+BUPA_FRG0140,CRM BP Organizational Data
+BUPA_FS01,BP: Application 01 (Organization and Identification Numbers)
+BUPA_FS02,Business Partner: Fiscal Year Data and Employment Data
+BUPA_FS03,BP: Application 03 (Credit Standing and Stat.Reporting Data)
+BUPA_FS04,Address Usage
+BUPA_FS05,Business Partner: Application 05
+BUPA_FS06,Change Document Object for BP Information Objects
+BUPA_FS08,Business Partner Ratings (FSBP_08)
+BUPA_FSDA,BP: Differentiation Type-Dependent Attributes
+BUPA_FS_BPCA,Business Partner: BPCA
+BUPA_HIERARCHY,BP Group Hierarchy
+BUPA_ICM_BPDESC,ICM BP: Personal Description
+BUPA_MKTPERM,CRM BP Marketing Permission
+BUPA_PSCI,CBP: Related Person Data
+BUPA_PSCM,CBP: Student Data
+BUPA_PSSC,Sponsor Master Cloud Edition
+BUPA_PSUS,CBP for US: Student Data
+BUPA_SMIUSER,CRM BP Assignment of Social Media User
+BUPA_SPLFRG0010,CRM Business Partner: Complaints and Returns
+BUPA_SPLFRG0030,CRM Business Partner: ATP
+BUPA_TEMPLATE,Business Partner: Templates
+BUPA_UDM,Business Partner: SAP Collections Management
+BUPA_UKM,Business Partner: SAP Credit Management
+BUPR_BUB,Business Partner Relationships: Application BUB
+BUPR_BUR,Business partner relationship: Use of BUR
+BUPR_BURC,Business Partner Relationships: Application BURC
+BUPR_FRG0080,CRM BP Partner Functions Set
+BUPR_FS_BPCA,Business Partner Relationships: BPCA
+BUPR_SEMPL00,CRM BP Sales Employee for Contact Person Relationship
+BUPR_TAXADVISOR,Business Partner Relationships: Tax advisor
+BUTX_FRG0010,Business Partner Tax Classification
+CATS_DATA,Change Documents for Time Sheet
+CCARD,Payment Cards (Business Partner)
+CCDECL,Cargo Customs Declaration
+CFIN_SPLIT_ACTI,Settings for Central Finance in the Source System
+CHARGE,Batch master
+CHARGE_LM,Batch master (with long material number)
+CIAPOBJECT,CIAP Object
+CI_BILL,Convergent Invoicing: Change Documents for Billing Document
+CI_BILLREQ,Convergent Invoicing: Change Documents for Billing Request
+CI_INV,Convergent Invoicing: Change Documents for Invoicing Doc.
+CLASSIF,Classification: Object assignment class and evaluation
+CLASSIFY,Classification Data
+CLEARING,Data Cleansing Cases
+CMDT_BP,Master Record Business Process with Activation Status
+CMDT_CC,Cost Center Master Record with Activation Status
+CMDT_PC,Profit Center Master Record with Activation Status
+CMMFDOF_CD_FILL,Commodity Order Fill Change Document
+CMMFDOF_CD_FWD,Commodity Order and Trade Executution - Fill Forward
+CMMFDOF_FL_MSG,Commodity Order Fill Messages
+CMMFDOF_FL_PKT,Change Document for Commodity Order Fill Packet
+CMMFDOR_BKT_HD,Commodity Derivative Order Request Bracket Header
+CMMFDOR_BKT_IT,Commodity Derivative Order Request Bracket Item
+CMMFDOR_OR_DOC,Commodity Derivative Order Assigned Documents
+CMMFDOR_OR_LEG,Commodity Derivative Order Assigned Legs
+CMMFDOR_OR_REQ,Commodity Derivative Order Request
+CMMFSA_CDO_SA,Commodity Sub Account Change Structure.
+CMM_AD_BO,Commodity Management: Accrual Document
+CMM_CTRDEAL_REQ,Change documents for Counter Deal Requests
+CMM_DEDES_REQ,Change documents for De-designation Request
+CMM_HC_TASKLIST,Change Documents for Hedge Constellation Task List
+CMM_MIGRTN_REQ,Change documents for Migration Requests
+CMM_PLAN,Change documents for planning data
+CMM_PLANEXPSR,Change documents for Plan Exposure
+CMM_RECLASS_REQ,Change document for Reclassification Request
+CMS_CD_ACG,Change document object:Approved Coverage Gap (ACG) details
+CMS_CD_AST,Asset Change Document Object
+CMS_CD_CAG,Change document object for CAG details
+CMS_CD_CAG_RBL,Change document object for Agreement-Receivable link
+CMS_CD_CHG,Change document object for Charges
+CMS_CD_FOB,Change document object for Financed objects
+CMS_CD_INS,Change documents for Insurance
+CMS_CD_LIQ,Liquidation Measure
+CMS_CD_LIQ_CFL,CMS Liquidation Cashflows
+CMS_CD_LR_DE,Change Document - Grundbuch
+CMS_CD_MOV,Change documents for Movable
+CMS_CD_PCN_CR,Change Document for Change Request
+CMS_CD_RBL,Change document object for Receivable details
+CMS_CD_RE,Real Estate
+CMS_CD_REL,Change Document Object for Relationships
+CMS_CD_RIG,Change documents for Rights
+CMS_CD_SEC,Change Document - Securities
+CMS_CD_SHP,Change document object for Ship details
+CMS_CD_TSK,Change Document for Manual Tasks
+CNV_RUNID,RunID
+COKA,CO object: control segment object/cost element (for ALE)
+COND_A,Sales: Conditions and Pricing
+COND_B,Agreements: Tables for change documents
+COND_LE,Change history for listing and exclusion
+COND_MS,Material Substitution Condition - Change Log
+COND_N,Sales: Conditions and Free Goods
+COND_OC,Output Condition Change Log
+COND_REC,Change document object for AP condition records (generic)
+CONTROL_CYCLE,Kanban Control Cycle
+CON_CONSENT,Consent Management: Change Document Object
+COPC_ACCOUNT,Cash Account
+CRMM_BP10_WP,CRM BP Sales Set WP
+CRMM_BP20_WP,CRM BP Shipping Set WP
+CRMM_BPATP_WP,CRM BP ATP Set WP
+CRMM_BP_PR,Business Partner: Profile Assignment
+CRMS4_ICM_LOC,Change log for ICM Location on S4
+CRMS4_ICM_OBJ,Change log for ICM Objects on S4
+CRMS4_ISX_DISC,Change Document ISX Document
+CRMS4_IU_CTM,Utilities Sales Contract
+CRMS4_SOM_ALLW,Change log for Allowance Defintion Group
+CRMS4_SOM_MR,Change documents for mass run object
+CRMS4_SOM_PROD,Change log for Subscription Product-Specific Data
+CRMS4_SOM_SHGR,Change log for Contract Sharing Group
+CRMS4_TC_LOCK,Change Document TC_LOCK
+CRM_CHKLSTAZ,EEW: Generated Object (Do not Process Manually)
+CRM_ICM_AID,Change history for other names
+CRM_ICM_BP_EX,Change history for BP Extensions
+CRM_ICM_BP_NOTE,ICM Person Notes logs
+CRM_ICM_BP_REL,ICM Business Partner Relationship logs
+CRM_ICM_LOC_REL,Change Document for Location
+CRM_ICM_LOG,ICM Notes Logs
+CRM_ICM_MAT,CRM ICM Investigative Case: Change Document Matrix Obj
+CRM_ICM_REL,CRM ICM Investigative Case: Change Document Relationship Obj
+CRM_IST_ITA3,EEW: Generated Object (Do Not Process Manually)
+CRM_ISUEXTA4,EEW: Generated Object (Do Not Process Manually)
+CRM_ISUIDEAM,EEW: Generated Object (Do Not Process Manually)
+CRM_ISULOGA8,EEW: Generated Object (Do Not Process Manually)
+CRM_ISUSECA5,EEW: Generated Object (Do Not Process Manually)
+CRM_ISU_CONT,ISU Container Object
+CRM_ISU_CONT_TS,Utilities: Configuration versions
+CRM_ISU_PRA1,EEW: Generated Object (Do not Process Manually)
+CRM_ISU_PRAT,EEW: Generated Object (Do not Process Manually)
+CRM_ISU_REAX,EEW: Generated Object (Do not Process Manually)
+CRM_ISX_MAPTB_I,"Parameters, Mapping Tables"
+CRM_ORDER,Change document object for CRM one order documents
+CRM_SOC_POSTS,CRM SOCIAL MEDIA POSTS
+CRM_TC_TECH_RES,TC: Technical resources
+CRM_TIMEREP,Change document object for CRM Time Reporting
+CSEAL,Change document object for seal
+CSEAL_IN,Change document for seal
+CSSL,Cost center/activity type (for ALE)
+CTS_HEADER,Currency Transaction Statement Document Header
+CTS_ITEM,Currency Transaction Statement Document Items
+CUST_VAT_KR,Customer: Change document for VAT Registration
+CVP_ARCH_WHITEL,Change documents for Archiving white list table
+DDS_JP,Japan Due Date Shift
+DEALPASS,Deal Passport
+DEBI_PS,IS-PS Enhancements for Object DEBI
+DFKKTAXEX,FI-CA Tax Exemptions
+DFS_ALLWNC,DFS Allowance
+DFS_ASSGMT,DFS Assigment
+DFS_CAP_CO,Capability Object
+DFS_CO_CHGDOC,Capability Object Change Document
+DFS_DIS_SUBS_CH,Defense Disconnected Subscription Change document
+DFS_FE_MEASURES,Change document for Manage Measures
+DFS_FMPO_CHGDOC,Change document for Flexible Material Planning object
+DFS_MET_CHGDOC,MET Change Document
+DFS_MODEL,Change Documents for Defense Modeling Canvas
+DFS_PLC_CHGDOC,Change document for Platform Code
+DFS_RELOCATION,Defense Relocation Planning Change Document Object
+DFS_SCN_CHGDOC,Defense Scenario Change Document
+DFS_STAT_CHGDOC,Capability Statement Change Document
+DGP_DGTMD,Change document for changes to DGTMD
+DGP_MASTER,EHS: Dangerous Goods
+DMF_CLASSIFY,Classification data
+DOKUMENT,Change Documents for Document Info Record
+DOK_AUDIT,DMS audit function document
+DPR_PROJECT,cProjects
+DQAF_KPI,Data Quality Admin. Framework Step KPI
+DQAF_STEP,Data Quality Admin. Framework Step
+DQAF_TASK,Data Quality Admin. Framework Task
+DRF_FILTER_CD,Filter Criteria Change Documents
+DTINF_PROC_COLL,Information Retrieval: Data Collection Field Value Changes
+EAML_NW,Network data from network modeller
+ECM_ORD,Order change documents
+ECM_REQ,Change Documents for Request
+ECM_VAL,Change Management: Validity
+ECONCPOST,Change documents for ECONCPOST
+EHENV_SCEN,Change Document  Object for Compliance Scenario BO
+EHFND_ACT_TMPL,Change Document Object for EHFND_ACTION_TEMPLATE
+EHFND_CHM,Change Document for Chemical
+EHFND_CONTROL,Change Document Object for EHFND_CONTROL_REG
+EHFND_LHR,Change Document Object for EHFND_LOCATION_STRUCTURE
+EHFND_LISTEDSUB,Listed Substance
+EHFND_LOC,Change Doc . Object for Location BO
+EHFND_PSE,Change Document for the EHFND Process Setup BO
+EHFND_REGLIST,Regulatory List Revision
+EHFND_REQ,Change Document  Object for Compliance Requirement BO
+EHFND_SAMPLMTD,Change Doc . Object for Sampling Method BO
+EHFND_VEN,Change Document for Vendor
+EHHSS_AGENT,Change Dcoument Object for EHHSS_AGENT
+EHHSS_AIRBRN_AG,Change Dcoument Object for Airborne Agent EHHSS_AIRBORNE_AGT
+EHHSS_CINSP,Change Documents for Control Inspection Plan
+EHHSS_HSP,Change Documents for Health Surveillance Protocols
+EHHSS_INCIDENT,change document object for EHHSS_INCIDENT
+EHHSS_INC_DEV,change document object for EHHSS_INCIDENT_DEVIATION
+EHHSS_INC_REP,Change document object for Incident Report BO
+EHHSS_JOB,Change Document for Job
+EHHSS_RAS,change document object for Risk Assessment
+EHHSS_RAS_ACT,Change Document Object for Risk Assessment Actions
+EHHSS_RSK,change document object for Risks
+EHHSS_SEG,Change Document for Similar Exposure Group
+EHHSS_SPLCP,Change Document for SAmpling Campaign
+EHPRC_CAMPAIGN,Change Document Object for EHPRC_CAMPAIGN
+EHPRC_COD,Change document object for Complince Data
+EHPRC_OBJ_LIST,Change Document Object for EHPRC_OBJECT_LIST
+EINKBELEG,Purchasing Document
+EINKDOKUMENT,Document Assignment to Purchasing
+ELBM,Vendor Evaluation at Material Level
+EMBK,Foreign Trade: Legal control - Licenses
+EMC_JP,Change Object for EMC Japan
+EMMA_CASE,Change Documents for Clarification Cases
+ENTRYSHEET,Change Document for Service Entry Sheet
+EQUI,Equipment change document objects
+ESPHR,EHS: Change Document Object - Phrase
+ESREP,EHS: Change Document Object - Report
+ESSADM,EHS: Service Administration - Configuration Changes
+ESSUB,EHS: Change Document Object - Substance
+ESSUBINH,EHS: Change Document Object - Inheritance Relation
+ESTDF_OBCT,PP-SHE: Substance characteristic changes.
+ESTDU_OBCT,PP-SHE: Change document object for applications.
+ESTLP_OBCT,PP-SHE: Change document object for ESTLP.
+ESTLR_OBCT,PP-SHE: Change document object for ESTLR.
+ESTLU_OBCT,PP-SHE: Change object for ESTLU.
+ESTLV_OBCT,PP-SHE: Change document object for ESTLV.
+ESTMJ_OBCT,PP-SHE: Change document object for mat.assign.tab. ESTMJ.
+ESTOH_OBCT,EHS: change object for table ESTOH
+ESTPH_OBCT,PP-SHE: Change document object phrase header.
+ESTPJ_OBCT,PP-SHE: Change object for phrases-selection set assignment.
+ESTPO_OBCT,PP_SHE: Change object for original phrase.
+ESTPP_OBCT,PP-SHE: Phrase item change document object.
+ESTPS_OBCT,PP-SHE: Selection set change document object.
+ESTPT_OBCT,PP-SHE: AWM name change document object.
+ESTRH_OBCT,PP-SHE: Material table ESTRH change document object.
+ESTRI_OBCT,PP-SHE: Material identifier changes.
+ESTRL_OBCT,PP-SHE: Material ID - material list assignment changes.
+ESTRR_OBCT,PP-SHE: Change document object for reference material ESTRR.
+ESTVA_OBCT,PP-SHE: Change document object for analysis.
+ESTVH_OBCT,PP-SHE: Change document object for the analysis header.
+ESTVP_OBCT,PP-SHE: Material analysis items changes.
+ETXDCH_REC,Change Document: ETXDCH
+EXPIMPBELEG,Foreign Trade Data
+FAA_COMP_CODE,Change Documents for FAA Company Code Settings
+FAA_MD,Fixed Asset Master Data
+FAA_UO,Fixed Asset Usage Object
+FACTORYCAL,Factory calendar
+FAKTBELEG,Sales: Billing Document
+FARR_CONTRACT,Financial Accounting Revenue Recognition:Contract Object
+FARR_IMG,Financial Accounting Revenue Recognition: IMG
+FARR_INB_PPND,Financial Accounting Rev. Rec.: Inbound Postponed Items
+FARR_MANUAL_FUL,Financial Accounting Revenue Recognition:Manual Fulfill Obj.
+FCC,Change Document Object for FCc Template
+FCC_INSTANCE,Change Document Object for FCc Task List
+FCLM_BAM,Bank Account Management
+FCLM_BAM2,Enhanced Bank Account Management
+FCLM_BAM3,"Bank Account Management, version 3"
+FCLM_BAM4,"Bank Account Management, version 4"
+FCLM_BASETTING,Bank Account Setting
+FCLM_CPL,Cash Pool
+FCLM_HOUSEBANK,housebank change document
+FCLM_POA,Bank Account Management: Power of Attorney
+FCLM_POAI,Bank Account Management: Power of Attorney Implementation
+FCOM_CREQ,Change Document Object for Change Requests in CO
+FCO_EBDP_RULE,Change Documents for Event-Based Posting Rules
+FCRNUM,Payment Card Master Record
+FEATURE,Change document attribute management
+FHMSTAMM,Change document production resource master
+FIBL_RPCODE,Change Documents for Repetitive Codes
+FICA_PSDD,Public sector due date for contract acconut
+FICO,Financial Conditions
+FICOSR,Financial Conditions Set of Rules
+FINS_ALLOC_TMPL,FINS One Allocation Template Change Document Object
+FIN_ETX_COM_REC,External Tax Document: Communication Record
+FIPRADMIN,Administrative Data: Product Configurator
+FIPRVALUES,Change Document  :  Product Attributes
+FIXTURE,Change Document Object for Fixtures
+FI_PAYTRCP,Change Documents for Payment Receipts
+FI_RITA,Displaying Changes in Reg. for Indirect Tax. Abroad (RITA)
+FKKID_TC,Tax Corrections
+FKK_BRINSEQ,Brazil : Storing Sequence Number of Incoming Files
+FKK_COLI,Change Documents for Co-Liability
+FKK_CORR,Correspondence
+FKK_CRDRT,Change in Manual Creditworthiness
+FKK_DCM_DS,Debt Set (Debt Collection Management)
+FKK_REPREQ,FI-CA: Repayment Request
+FKK_REQ,Change Documents for Request Header Data
+FKK_REQDUE,Change Documents for Standing Requests Execution Data
+FKK_REQLOCK,Change Documents for Locks of Requests
+FKK_REQPOS,Change Documents for Request Item Data
+FKK_SEC,Contract Accounts Receivable and Payable: Security Deposit
+FLOG_SHIPMENT,Change Log for Field Logistics Shipment
+FLOG_SUPLRITEM,Change Log for Field Logistics Supplier Item
+FMBCSDOCH,FM: Change Document for BCS preposted document header
+FMBCSDOCL,FM: Change Document for BCS preposted document lines
+FMBPD,FM: Budget Period
+FMBSADDRS,FM: Change Document for Manage Budget Addresses
+FMBSBO,FM: Budget Addresses (BCS)
+FMBSPO,FM: Posting Addresses (BCS)
+FMCA_COREL,TRM: Master Data Relationship
+FMCA_DM_BP_COLL,Collection steps per Debtor
+FMCA_FLD_CMMT,Change Document for ISR TTF Form Comments
+FMCA_FORMDATA,TRM: for Form Data
+FMCA_PSOB,IS-PS-CA:  Contract Object
+FMCA_PSOBVKK,IS-PS-CA:  Contract Object Accts Rec. and Accts Payable Data
+FMCA_RETURN,TRM: Tax Return and Form
+FMCA_TF_CDO_CST,Change Document for Consolidated Sales Use Tax
+FMCA_TF_CDO_MFD,TRM: Change Document Object for MFT Disbursement Schedule
+FMCA_TF_CDO_MFR,TRM: Change Document Object for MFT Receipt Schedule
+FMCA_TF_CDO_UET,TRM: Change Document Object for Unemployment Tax
+FMCA_TF_CDO_WHT,TRM: Change Doc for Withholding Tax
+FMCEADDRS,FM: Change Document for Budget Addresse in Cover Groups BCS
+FMCECVGRP,FM: Change Document for Cover Groups in BCS
+FMCFRULE,FM: FYC carryforward rule
+FMCI,FM: Commitment Items
+FMCRITERIA,Additional Criteria for Commitment Item Change Documents
+FMCUS_DATE,FM Customized Date
+FMDT_ABADR,FM Derivation strategy overview
+FMDT_CD_DRULE,Derivation table contents for DRULE type derivations
+FMDT_S_ABADR,FM Derivation - Steps in a strategy
+FMEUFFINSRC,Exp. Cert.: Financing Source Change Documents
+FMEUFOPERA,Exp. Cert.: Operation Change Documents
+FMFA,FM: Functional Area
+FMFCPO,Change document summarization item
+FMFCTR,Commitment funds center change document
+FMFCTR_NEW,Change Documents for Funds Centers
+FMFG_CCRVENDOR,PSM-FG: CCR Vendor Data
+FMFG_LFACCR,CCR:Vendor Master CCR Fields
+FMFG_SAMVENDOR,PSM-FG: SAM Vendor Data
+FMFONDS,Source of funds change document
+FMFPO,Account assignment item change document
+FMFUNDBPD,FM: Fund with Budget Period assignments
+FMFUSE,Application of funds change document
+FMINCOMEXP,Revs Increasing the Budget-FM Revenue Commitment Change Docs
+FMIUR,FM open interval update rules
+FMMEASURE,Change Document Interface - Table FMMEASURE
+FMPG,FM: Commitment Item in FM Area
+FMPP,FM: Commitment Item in Chart of Commitment Items
+FMRBIDX,FM: Change Document for RIB revenue index in BCS
+FMRBOBJ,FM: Change Document for RIB objects in RIB BCS
+FMRBREC,FM: Change Document for receiver in RIB BCS
+FMRIB,Change Document Object for Revenue Increasing the Budget
+FMSPLIT_RULE,FM account assignment splitting rule data
+FM_S4C_FLUPDATE,Users for Flexible Update Date
+FOTETAXUSMAPCH,External Tax:Mapping Table Change document
+FOTEXTFLDMAP,External Tax - Custom Extended Field Mapping Auditable Trace
+FPIA_INTEREST,Penalty Interest
+FSBP_002,Dummy
+FSBP_FSTX,Change Document for Tax Compliance
+FSH_MD_CD,Change document for master data
+FSH_MM_CD_VAS,Change document for VAS in Purchasing
+FSH_SD_CD_VAS,Change document for VAS in Sales
+FSLS,Foreign Trade: Legal control - Sanctioned party list
+FTBP,Central business partner Treasury
+FTBPOB,Partner-Object Relationship
+FTR_COMMODITY,Document changes done for Commodity master data
+FTR_SEC_ACC,Security Account
+FTR_TCORT_CO,Treasury: Correspondence
+FTR_TREA_MLM,TREA_MLM: Change Documents
+FTR_TREA_STMT,TREA Cash Flow Statement
+FXM_BSR,B/S Exposure Hedge Request
+GAH,Change logs for global hierarchies
+GEBAUDE,Buldings and building areas
+GHO_ALC_RES_CD,Audit Trail Change Document
+GHO_AUDIT_SAVE,Change document for Audit Status Profiles
+GHO_CUVD_OWN_MD,Change document for Customer/Vendor Master data
+GHO_CUVD_OWN_TY,Ownership Customer/vendor role change document
+GHO_DM_CD,Deferment: Audit Trail Change Document
+GHO_DOI_BG_HDR,Change document for Division of Interest bearer group
+GHO_DOI_BG_ITMS,Change document for Division of Interest bearer group items
+GHO_DOI_OWN,Change document for Divison Of Interest Items
+GHO_DOI_OWN_HDR,Change document for Division of Interest Header
+GHO_DPP_CHANGES,DPP Changes
+GHO_FDC_CD,Obsolete - FDC: Audit Trail Change Document
+GHO_FORMULA_CD,Formula Change Document
+GHO_IFLOT,Change document for OPM Network Object (Functional Location)
+GHO_MEAS_CD,Measurement Change Document
+GHO_MEAS_PRI_CD,Measurement Priority Rules Change Document
+GHO_MODELING_CD,Network Modelling Change Document
+GHO_NET_RUL_CD,Obsolete - Network Rule Log
+GHO_NODERULE_CD,Node Rules Change Document
+GHO_NODE_RUL_CD,Obsolete - Alloc Node Rule Change Document
+GHO_NW_RULE_CD,Network Rule Change Document
+GHO_OWN_NET_ASG,Change document for DOI to network object assg
+GHO_SRC_FORM_CD,Obsolete - Formula Source Data Log
+GHO_SRC_NRUL_CD,Obsolete - Network Rule Source Data Log
+GHO_TOR_CD,Theoretical Override Change Document
+GHO_UOM_RULE_CD,UOM Rule Change Document
+GHO_UOM_RUL_CD,Obsolete - Allocation UOM Rule Change Document
+GHO_WEL_TEST_CD,Well Test Change Document
+GHO_ZONAL_CD,Zonal Contribution Change Document
+GLO_FAA_CSMD,Change Doc. for GLOFAAASSETDATA and GLOFAATMDPNDNT
+GLPOSTINGTMPL,Posting Template
+GMGRANT,Change Document Interface - GMGR
+GMGRANTCORE,Change Document Interface - GMGR
+GMOBJMAPPER,Change Document GM Object Mapper
+GMSPCLASSCORE,Change Document for Sponsored Class (Cloud Edition)
+GMSPPROGRAM,Change Document Interface - Table GMSPPROGRAM
+GMSPPROGRAMCORE,Change Document Object for Sponsored Program
+GOS_ATTA_CD,Change Documents for GOS Attachments
+GPM_PROGRAM,CRM Grantor Program Management
+GRPG_GRPNR,Change Document Object for Grouping WBS Element
+GRUNDBUCH,Land register
+GRUNDSTK,Properties and property areas
+HANDL_UNIT,Handling Units
+HEIZZENTR,Change documents for heating system maintenance
+HOLIDAY,Public holidays
+HOLIDAYCAL,Public holiday calendar
+HR_IT1000,Change Document Object for Infotype 1000
+HR_IT1001,Change Document Object for Infotype 1001 and Additional Data
+HR_IT1002,Change Document Object for Infotype 1002
+HR_IT1003,IT 1003: Update Program for Change Documents (CDOC)
+HR_IT1004,Change Document Object for Infotype 1004
+HR_IT1005,Planned compensation
+HR_IT1006,Change Document Object for Infotype 1006
+HR_IT1007,Change Document Object for Infotype 1007
+HR_IT1008,Change Document Object for Infotype 1008
+HR_IT1009,Change Document Object for Infotype 1009
+HR_IT1010,Change Document Object for Infotype 1010
+HR_IT1011,Change Document Object for Infotype 1011
+HR_IT1013,Change Document Object for Infotype 1013
+HR_IT1014,Change Document Object for Infotype 1014
+HR_IT1015,Change Document Object for Infotype 1015
+HR_IT1016,Change Document Object for Infotype 1016
+HR_IT1017,Change Document Object for Infotype 1017
+HR_IT1018,Change Document Object for Infotype 1018
+HR_IT1019,Change Document Object for Infotype 1019
+HR_IT1021,Infotype 1021 Change Document Object
+HR_IT1023,Infotype 1023 Change Document Object
+HR_IT1024,Infotype 1024 Change Document Object
+HR_IT1025,Change Document for IT 1025
+HR_IT1026,Infotype 1026 Change Document Object
+HR_IT1027,Infotype 1027 Change Document Object
+HR_IT1028,Change Document Object for Infotype 1028
+HR_IT1029,Infotype 1029 Change Document Object
+HR_IT1030,Infotype 1030 Change Document Object
+HR_IT1032,Change Document Object for Infotype 1032
+HR_IT1033,IT 1033: Update Program for Change Documents (CDOC)
+HR_IT1034,Infotype 1034 Change Document Object
+HR_IT1035,Infotype 1035 Change Document Object
+HR_IT1036,Infotype 1036 Change Document Object
+HR_IT1037,Infotype 1037 Change Document Object
+HR_IT1038,IT 1038: Update Program for Change Documents (CDOC)
+HR_IT1039,Change Document Object for Infotype 1039
+HR_IT1042,Infotype 1042 Change Document Object
+HR_IT1043,IT 1043: Update Program for Change Documents (CDOC)
+HR_IT1044,IT 1044: Update Program for Change Documents (CDOC)
+HR_IT1045,IT 1045: Update Program for Change Documents (CDOC)
+HR_IT1047,IT 1047: Update Program for Change Documents (CDOC)
+HR_IT1048,IT 1048: Update Program for Change Documents (CDOC)
+HR_IT1049,Change Document Object for Infotype 1049
+HR_IT1050,Job Evaluation
+HR_IT1051,Survey Result
+HR_IT1055,Change Document Object for Infotype 1055
+HR_IT1060,Infotype 1060 Change Document Object
+HR_IT1061,Change Document Object for Infotype 1061
+HR_IT1062,Infotype 1062 Change Document Object
+HR_IT1063,Infotype 1063 Change Document Object
+HR_IT1222,Change Document Object for Infotype 1222
+HR_IT1240,Change Document Object for Infotype 1240
+HR_IT1271,Change Document Object for Infotype 1271
+HR_IT1500,Change Documents for Infotype 1500
+HR_IT1501,Change Documents for Infotype 1501
+HR_IT1502,Change Documents for Infotype 1502
+HR_IT1503,Change Documents for Infotype 1503
+HR_IT1504,Change Documents for Infotype 1504
+HR_IT1505,Change Documents for Infotype 1505
+HR_IT1506,Change Documents for Infotype 1506
+HR_IT1507,Change Documents for Infotype 1507
+HR_IT1509,Change Documents for Infotype 1509
+HR_IT1511,Change Documents for Infotype 1511
+HR_IT1512,Change Documents for Infotype 1512
+HR_IT1513,Change Documents for Infotype 1513
+HR_IT1514,Change Documents for Infotype 1514
+HR_IT1515,Change Documents for Infotype 1515
+HR_IT1516,Change Documents for Infotype 1516
+HR_IT1517,Change Documents for Infotype 1517
+HR_IT1518,Change Documents for Infotype 1518
+HR_IT1519,Change Documents for Infotype 1519
+HR_IT1520,Change Documents for Infotype 1520
+HR_IT1600,Modification document for infotype 1600
+HR_IT1601,Modification document for infotype 1601
+HR_IT1630,Change Document object for infotype 1630
+HR_IT1631,Change Document for infotype 1631
+HR_IT1632,Change Document for infotype 1632
+HR_IT1633,Change Document for infotype 1633
+HR_IT1660,Change document object for Infotype 1660
+HR_IT1661,Change document object for Infotype 1661
+HR_IT1680,Infotype 1680 Change Document Object
+HR_IT1681,Infotype 1681 Change Document Object
+HR_IT1682,Infotype 1682 Change Document Object
+HR_IT1683,Infotype 1683 Change Document Object
+HR_IT1684,Infotype 1684 Change Document Object
+HR_IT1685,Infotype 1685 Change Document Object
+HR_IT1686,Infotype 1686 Change Document Object
+HR_IT1687,Infotype 1687 Change Document Object
+HR_IT1701,Change Document Object for Infotype 1701
+HR_IT1702,Change Document Object for Infotype 1702
+HR_IT1703,Change Document Object for Infotype 1703
+HR_IT1704,Change Document Object for Infotype 1704
+HR_IT1705,Change Document Object for Infotype 1705
+HR_IT1706,Change Document Object for Infotype 1706
+HR_IT1711,Change Document Object for Infotype 1711
+HR_IT1712,Change Document Object for Infotype 1712
+HR_IT1714,Change Document Object: Infotype 1714
+HR_IT1718,Change Document Object for Infotype 1718
+HR_IT1719,Change Document Object for Infotype 1719
+HR_IT1721,Change Document Object for Infotype 1721
+HR_IT1724,Change Document Object: Infotype 1724
+HR_IT1725,Change Document Object: Infotype 1725
+HR_IT1750,Change Document Object for Infotype 1750
+HR_IT1761,HR_IT1761
+HR_IT1769,Change Document Object: Infotype 1769
+HR_IT1770,Change Document Object: Infotype 1770
+HR_IT1771,Change Document Object: Infotype 1771
+HR_IT1782,HR_IT1782
+HR_IT1783,Change Document Object for Infotype 1783
+HR_IT1785,Change Document Object for Infotype 1785
+HR_IT1786,Change Document Object for Infotype 1786
+HR_IT1890,Change Document Object for Infotype 1890
+HR_IT1891,Change Document Object for Infotype 1891
+HR_IT1892,Change Document Object for Infotype 1892
+HR_IT1893,Change Document Object for Infotype 1893
+HR_IT1894,Change Document Object for Infotype 1894
+HR_IT1950,Change Document Object for Infotype 1950
+HR_IT1951,Change Document Object for Infotype 1951
+HR_IT1952,Change Document Object for Infotype 1952
+HR_IT1953,Change Document Object for Infotype 1953
+HR_IT1954,Change Document Object for Infotype 1954
+HR_IT1955,Change Document Object for Infotype 1955
+HR_IT1956,Change Document Object for Infotype 1956
+HR_IT1957,Change Document Object for Infotype 1957
+HR_IT1958,Change Document Object for Infotype 1958
+HR_IT1959,Change Document Object for Infotype 1959
+HR_IT1980,Change Document Object for Infotype 1980
+HR_IT1981,Change Document Object for Infotype 1981
+HR_IT1982,Change Document Object for Infotype 1982
+HR_IT1983,Change Document Object for Infotype 1983
+HR_IT1984,Change Document Object for Infotype 1984
+HR_IT1985,Change Document Object for Infotype 1985
+HR_IT1986,Change Document Object for Infotype 1986
+HR_IT1988,Change Document Object for Infotype 1988
+HR_IT1990,NATO Information
+HR_IT5003,Change Document Object for Infotype 5003
+HR_IT5004,Change Document Object for Infotype 5004
+HR_IT5006,Change Document Object for Infotype 5006
+HR_IT5007,Change Document Object for Infotype 5007
+HR_IT5008,Change Document Object for Infotype 5008
+HR_IT5009,Change Document Object for Infotype 5009
+HR_IT5010,HR_IT5010
+HR_IT5041,Change Document Object for Infotype 5041
+HR_IT5042,Change Document Object for Infotype 5042
+HR_IT5043,Change Document Object for Infotype 5043
+HR_IT5044,Change Document Object for Infotype 5044
+HR_IT5045,Change Document Object for Infotype 5045
+HR_IT5046,Change Document Object for Infotype 5046
+HR_IT5047,Change Document Object for Infotype 5047
+HR_IT5050,Change Document Object for Infotype 5050
+HR_IT5225,Change Document Object for Infotype 5225
+HR_IT5226,Change Document Object for Infotype 5226
+HR_IT6200,Change Document Object for Infotype 6200
+HR_IT7400,Change Document Object for Infotype 7400
+HR_IT7402,Change Document Object for Infotype 7402
+HR_IT7403,Change Document Object for Infotype 7403
+HR_IT7404,Change Document Object for Infotype 7404
+HR_IT7405,Change Document Object for Infotype 7405
+HR_IT7406,Change Document Object for Infotype 7406
+HR_IT7407,Change Document Object for Infotype 7407
+HR_IT7409,Change Document Object for Infotype 7409
+HR_IT7410,Change Document Object for Infotype 7410
+HR_IT7420,Change Document Object for Infotype 7420
+HR_IT7430,Change Document Object for Infotype 7430
+HR_IT7431,Change Document Object for Infotype 7431
+HR_IT7432,Change Document Object for Infotype 7432
+HR_IT7433,Change Document Object for Infotype 7433
+HR_IT7434,Change Document Object for Infotype 7434
+HR_IT7435,Change Document Object for Infotype 7435
+HR_IT7436,Change Document Object for Infotype 7436
+HR_IT7437,Change Document Object for Infotype 7437
+HR_IT7438,Change Document Object for Infotype 7438
+HR_IT7730,Chnage Document Object for Info type 7730
+HR_IT7731,Change Document Object for Info type 7731
+HR_IT7732,Change Document Object for Info type 7732
+HR_NAMESPACE,Namespace Check
+HR_PSOLL,Shift Planning: Change Documents for Table PSOLL
+HSM_MASTER,EHS: Change Document Object - Hazardous Substance
+IBAN,IBAN
+IBINVALUES,IBase: Characteristic Values
+ICLCLAIM,IS-IS: Claim
+ICLITEM,IS-IS: Claim Item
+IDCFM_FRIM_DATA,Changes in Impairment Data Table
+IDCFM_USFA,US-FAM: Facility
+IDENTITY,Changes in the Environment of Identity
+IE_RCT,Change Document contract details(Ireland)
+IFLO,PM: Functional Location
+IHC_OBJ_PN,IHC Payment Order Change Documents
+ILM_ARA,ILM: Change Documents for Audit Areas
+ILM_DCRF,ILM: Change Documents for DCRF Business Rules
+ILM_DCRF_CONF,ILM: Change Documents for DCRF Configurations
+ILM_OBJ_GROUPS,ILM: Change Documents for Object Groups
+ILM_POL,ILM: Change Documents for Policies
+IMAK,Appropriation requests with variant
+IMPR,Investment program positions
+IMPT,PM: Measurement point
+IMRG,PM: Measurement document
+IMTP,Investment programs
+INCOMINGINVOICE,Change Documents for Incoming Invoices
+INCOMINGINV_EXT,"Change Documents for Incoming Invoices, Enhancement IVEXT"
+INFOSATZ,Change Documents for Info Records
+INKASSO_01,Administration of Collection Items
+INS_OBJECT,FS-CD: Change Documents for Insurance Object
+INV_BELEG,Change phys. inv. document
+IREVISION,PM/CS Orders: Revision
+IRLO,PM: Reference Functional Location
+ISJP_IT,Change Document for Invoice Summary Items
+ISJP_MD,Change Document for Invoice Summary Master Data
+ISUC4C_P2P,Change document object ISU-C4C Promise to Pay
+ISU_C4C,Change document object ISU C4C
+ISU_DEREGPAR,Change Document: Deregulation Parameter
+ISU_DEREGSPAGR,Change Document: Service Provider Agreements
+ISU_DEVGRP,Change Documents: Device Group
+ISU_EABL,Change Documents for Meter Reading
+ISU_EABP,Budget Billing Plan
+ISU_EADZ,Cross-Installation Billing Data: Register
+ISU_EANL,Installation
+ISU_EASTE,Period Consumption
+ISU_EASTI,Register Relationships
+ISU_EASTL,Billing Data: Installation Structure at Device Level
+ISU_EASTS,Billing Data: Installation Structure at Register Level
+ISU_EAUS,Move-Out Document: Account Level
+ISU_EAUSV,Move-out Doc. Contract Level
+ISU_ECCARD,Change Document for Business Partner Concession Card
+ISU_ECONC,Change Document for Business Partner Concession Card
+ISU_ECONCESS,ISU_ECONCESS
+ISU_EDCN,Disconnection Document
+ISU_EDSC,Change Documents: Discounts
+ISU_EEIN,Move-In Document on Contract Account Level
+ISU_EEINV,Move-In Document: Contract Level
+ISU_EGERR,Change Documents: Device Information Data
+ISU_EGPL,Device Location (Table EGPLTX Only)
+ISU_EHAU,Change Document for Connection Object (EHAUISU)
+ISU_EKON,Franchise Contract
+ISU_EKUN,IS-U-Specific Data for Business Partner
+ISU_ELOCSD,Change Document for Container-to-SD Contract Allocation
+ISU_ELOCSDNEW,Change Documents Container/IBASE for SD Contract
+ISU_ELOC_DIFFC,Change Documents for Allocating Note to Container Location
+ISU_ELOC_EO,Change Docs. for Allocating Waste Disp.Objects to Cont.Loc.
+ISU_ELPASS,Load Profile Allocation
+ISU_EORDER,Change Documents for Waste Disposal Orders
+ISU_EPREI,Change Documents: Prices
+ISU_EPRESC,ISU_EPRESC
+ISU_EPROFASS,Assignment of Profiles
+ISU_EPROP,Change Documents for Owner Allocation
+ISU_ERCH,Change Documents: Billing Document
+ISU_ERDMP,Redemption Document
+ISU_EROUTE,Change documents for routes
+ISU_ERTFND,Change Documents: Rate Determination
+ISU_ESCH,Change Documents: Schema
+ISU_ESERVICE,Change Documents for Services ar PoD
+ISU_ESETTLUNIT,ISU Settlement Unit
+ISU_ETDZ,Technical Data of Register
+ISU_ETFND,ISU_ETFND
+ISU_ETRF,Change Documents: Rate
+ISU_ETRG,Change Documents for Billing Order
+ISU_ETTA,Rate Category
+ISU_ETTIF,Installation facts
+ISU_ETYP,Change Documents: Device Category
+ISU_EUFASS,Allocation of Usage Factor
+ISU_EVBS,Premise
+ISU_EVER,Contract
+ISU_EVERH,CRM Generation Object- Contract Supplement
+ISU_EWAINDPRC,Index Based Price Definition Waste & Recycling
+ISU_EWAOBJ,Change Documents for Service Frequency
+ISU_EWAPROP,Property
+ISU_EWAROB,Cleaning Object
+ISU_EWEIGH,Weighing Change Documents
+ISU_EWIK,Winding Group
+ISU_EZUG,Device Allocations for Device (Non-Metering Devices)
+ISU_EZUZ,Device Allocations for Register (Metering Devices)
+ISU_EZWG,Change Documents: Register Group
+ISU_GCONTRACT,Change Document Object for Guarantor Contract
+ISU_LACC,ISU_LACC
+ISU_PEASTI,Predefined Register Relationships
+ISU_POD,Change Object for Point of Delivery
+ISU_PRDOC,IS-U Parked Document
+ISU_REFVAL,Change Documents: Reference Values
+ISU_RVALUE,Reference Values
+ISU_TE271,Change Documents for Sample Lot
+ISU_TE420,Change Documents: Portion
+ISU_TE422,Change Documents: TE422 - Meter Reading Units
+ISU_TOUEXCEPT,Change Documents for TOU Exception
+ISU_TOUEXRESP,Change Documents for Time-of-Use Exception Response
+ISU_V_EGER,Change Documents for Device Location
+IUID_MAN_DATA,Manually Maintained Values for IUID Messages
+I_EHSHOURWORKED,"Change Document Object for ""EHS Hours Worked"""
+I_EHSTASKDEF,"Change Document Object for ""EHS Task Definition"""
+JV_MASTER,Joint Venture Master Data
+J_1UF_MD,Change document for Ukraine tax invoice master data
+J_3RDP,Deal Passport Change Object
+J_7LC,REA General Customizing
+J_7LD,REA Data Filters
+J_7LDK,REA Data Filter Keys
+J_7LDZ,REA Data Filter Assignments
+J_7LE,REA Recycling Partner
+J_7LK,REA Condition Types (Combinations/Assignments)
+J_7LM,REA Article
+J_7LMR,REA Article Referencing
+J_7LMR_LM,REA Article Referencing with long material number
+J_7LM_LM,REA Article with long material number
+J_7LP,REA Price List
+J_7LS1,REA Splitting Filters: Sales
+J_7LS2,REA Splitting Filters: Purchasing
+J_7LS3,REA Transaction-Dependent Data Filters: Sales
+J_7LS4,REA Transaction-Dependent Data Filters: Purchasing
+J_7LV,REA Packaging
+J_7LVG,REA Packaging Groups
+J_7LVG_LM,REA Packaging Groups with long material number
+J_7LV_LM,REA Packaging with long material number
+KBLKPW,Change documents funds reservation
+KCONS,Consent Data: Change document for KCONS table
+KERBEROS,Kerberos Keytab
+KLASSE,Class
+KLEXTARP,Credit Limit: Change Docs for Line Items for Default Risk
+KLEXTKNZ,Credit Limit: External Key Figures for Change Documents
+KLFZMD,Facilities' Master Data
+KLIM,Credit limit
+KLSICA,Collateral: Collateral Agreements
+KLSICAP,Collateral: Collateral Agreements - Items
+KLSICAPOS,Credit Limit: Change Docs for Cumulated Settlement Payment
+KLSIESP,Change Documents: Items
+KLSIEZS,Collateral - Single-Transaction-Related
+KLSIEZSPOS,Credit Limit: Single-Transaction-Based Collateral
+KLSIGLP,Global Collateral: Items
+KLSIGLS,Collateral: Global Collateral
+KLSIGLSPOS,Credit Limit: Global Collateral
+KOSTL,Cost Center
+KRED_LFMC,Change documents for condition type short text by supplier
+KRED_N,Planned changes: Vendor master
+KRED_PS,IS-PS Enhancement for Object KRED
+KRED_RT,Retail Enhancements for Object KRED
+KSTAR,Cost Element
+KUENDMV,Change documents for termination of lease-out
+KUNHIER,Change documents for customer hierarchy
+LABEL,EHS:Change Document Object for Label Data in Material Master
+LAYER,LIFO/FIFO Valuation
+LAYER_LONG,LIFO/FIFO Valuation for long material number
+LAYOUT,Changes for Layout Module to Layout Area Assignment
+LAYOUT_MOD,Layout Modules + Versions
+LCM_CATEGORY,LCM Category
+LCM_CONTEXT,LCM Context
+LCM_DOCUMENT,Document
+LCM_LEGALTR,Legal Transaction
+LFSSTN_CD,Change document for vendor sustainability table LFSSTN
+LFSSTN_CHG_DOC,Change document for Vendor Sustainability
+LFSSTN_CHNG_DOC,Vendor Sustainability Change Document
+LIBE,Change document vendor evaluation
+LIEFERUNG,Delivery
+LIF_VALUE,Change Document for vendor characteristic value
+LINEUP,Lineup
+LMD_MD_BP_DRV,Driver Enhancement
+LMD_MD_BP_ENH,Customer Master Sales Data Enhancements
+LOP_DOC,Logistical Option: Document
+LOP_MASTER,Logistical Option: Master Data
+LOP_REF,Logistical Option: Reference GUID
+LSTAR,Benefit Type
+MATERIAL,Material Change Document Object
+MATERIALID_CH,Material ID
+MATERIAL_H,Create material (future)
+MATERIAL_N,planned material change
+MATERIAL_N_LM,planned material change with long material number
+MATGRP_OBJ,Change Document Material Hierarchy MATGRP_OBJ
+MAT_FULL,Change document for all organizational levels of a material
+MDC_IMPORT,Change documents for master data import
+MDC_MATCH_DES,Change Documents for Matches During Data Enrichment
+MDC_MATCH_GROUP,MDC Change Documents for Match Groups
+MDC_MODEL,MDC Model Changes (Design/Runtime)
+MDC_PROCESS,Change Documents for MDC Process
+MDC_PROCESS_QRY,MDC Process Saved Search
+MDC_PROC_CONFIG,MDC Process Configuration
+MDG_BP_MLT_AS,Change Documents for Multiple Assignments
+MDQRM_MNDR,MDQ Mined Rules Change Documents
+MDQRM_MNNG,MDQ Rule Mining Change Documents
+MDQ_BUS_RULE,Master Data Quality Chg. Doc. Object for Business Rule
+MDQ_DIMN_CAT,Master Data Quality Chg. Doc. Object for Dimension Category
+MDQ_DRVTN_SCEN,Master Data Quality Chg. Doc. Object for Derivation Scenario
+MDQ_DS_EXPORT,MDQ Chg. Doc. Object for Derivation Scenario Export
+MDQ_RULE_EXPORT,Change Document Object for Master Data Quality Rule Export
+MDQ_RULE_IMPORT,Change Document Object for Master Data Quality Rule Import
+MDQ_RULE_RESULT,Master Data Quality Chg. Doc. Object for Evaluation Results
+MDSB,SC Components
+MDSUBSTN,Manage Substitutions - Products/Stor Loc/Plant
+MDSUBSTNCTRL,Manage Substitution Controls - Products/Stor Loc/Plant
+MDSUBSTNEXCLSN,Manage Substitution Exclusion - Products/Stor Loc/Plant
+MDSUBSTNGRP,Manage Substitution Groups - Products/Stor Loc/Plant
+MDSUBSTNRSN,Manage Substitution Reasons - Products/Stor Loc/Plant
+MELDUNG,Change Document - PM Notification
+MENA_VC,Change Object for vendor certificate for MENA
+ME_HK,Rental unit: Exchange: Heating expenses (A band)
+MHIO,Maintenance plan calls
+MHIS,Preventive Maintenance Plan History
+MIETEINH,Rental unit and dependent tables
+MIETVERTR,Lease-Out
+MIETV_AKT,Change document for lease-out (VIMIMV) to activate
+MIETV_ANG,Lease-out offer
+MIETV_UMSM,Sales reports for a lease-out
+MITEM,Maintenance items
+MKK_BELEG,FI-CA: Change Documents for the Document
+MKK_BELEG_WF,FI-CA: Planned Document Change (To Be Approved)
+MKK_BPTAX,Tax Numbers for Business Partner
+MKK_BPTAX_ADR,Address dependent Tax Numbers for Business Partner
+MKK_ESR,FI-CA: Change Documents for POR Payment Supplement
+MKK_MA,FI-CA: Change Documents for Master Agreement
+MKK_PPACC,FI-CA: Change Documents for Prepaid Account
+MKK_VKONT,FI-CA: Change Documents for the Contract Account
+MKK_VT,FI-CA: Change Documents for Provider Contract
+MKK_VT_PRD,FI-CA: Change Documents for Product
+MM_PUR_CATITM,Change documents for Catalog items
+MM_PUR_MPS,Model Product Specification Change Document Object
+MM_PUR_PROCPRJ,Procurement Project
+MM_PUR_RENEGO,Purchanse Contract Renegotiation List
+MM_PUR_SES,Service Entry Sheet Change Document Object
+MM_PUR_SPAWD,Sourcing Project Awarding Scenario
+MM_PUR_SPNGN,Sourcing Project Negotiation
+MM_PUR_SPQTN,Sourcing Project Quotation
+MM_PUR_SRCGPROJ,Sourcing Project
+MM_PUR_SRCSL,Sourcing Supplier List
+MM_PUR_SUPLRL,Preferred Supplier List
+MM_PUR_USRCRT,Change Document for Self Defined Criteria
+MM_SERVICE,Change Document: External Services Management
+MPLAN,Maintenance Plans
+MRP_AREA,Changes In Material Master Administration MRP Area
+MV_HK,Rental unit: Exchange: Heating expenses (A band)
+MW_ABNAHME,Tenant changeover: Apartment inspection
+MW_KAUTION,Tenant changeover: Release of rental collaterals (deposits)
+NJIT_CHDOC_CC,Change Document For JIT Control Cycles.
+NJIT_CHDOC_CMGR,Change Document For JIT S2P communication group
+NJIT_CHDOC_CREQ,Change document for Just-in-time calls
+NJIT_CHDOC_CUST,Change document for JIT Customer Master Data
+NJIT_CHDOC_DCNF,Change Documents for JIT Delivery Confirmations
+NJIT_CHDOC_DSG,Change Documents for JIT Delivery Sequence Groups
+NJIT_CHDOC_PGD,Change logging for JIT package grouping
+NJIT_CHDOC_PGU,Change document for JIT Package Units
+NJIT_CHDOC_SC,Change document for JIT Supply Control
+NJIT_MSG_GRP,JIT Communication Group Change Documents
+NJIT_S2P_CHD,S2P JIT Calls Change Documents
+NOTAFISCAL,Nota Fiscal
+NOTIF,Change Document - Notification (Basis)
+NOTIF_SAP,Change Document for Notification (Basis) SAP View
+NRINTERVAL,Number range group and interval changes
+NRKROBJ,Number range objects
+NWECM_ACL_CD,Change Documents for ECM ACLs
+O3UX7_WY_MPALLO,Tax 2.0 - WYGP MP Allocation
+OA2_CLIENT,OAuth2 Client
+OIC_COND_A,OIC_Enh. from SD Condit. and Pricing: Table for Change Docs
+OIF_PBL,OIF_PBL
+OIG_SHIPMENT,OIL-TPI: Shipment history
+OIH_OIHL,Change document creation for OIHL
+OIJ_NOM,IS-Oil TSW : Change document object for Oil nomination
+OIJ_STAGES,"Stages (in nominations, ...)"
+OIJ_TS,Change document object for transport system
+OILDRIVER,Change documents for TD driver
+OILTRUNIT,Change documents for TD transport units
+OILVEHMET,Change documents for TD vehicle meter
+OIO_CNTNR,Containers for offshore logsitics
+OIO_RTDOC,OLM returns document
+OIO_VOYAGE,OLM Voyage
+OIUBL01_PBA,Product Balancing Agreement
+OIUCA_DXR,DOI to MP/WC Cross Reference
+OIUCA_OSP,Change documents for Owner Selective Processing
+OIUCA_PRPD,Percent Return to Producer
+OIUCA_PSP,Change document for Plant Selective Processing
+OIUCA_TRNCT,MP/WC Transporter Contract Cross Reference
+OIUCP_CMCC,Contract Marketing Costs Change Documents
+OIUE2_ESCH_HOLD,Proc 2.0 - Escheat - ASCII - Holder Record
+OIUGR_ASU,Gen Roy 2.0 - Auto Suspend
+OIUGR_ASUE,Gen Roy 2.0 - Auto Suspend Exception
+OIUGR_ENTITY,Gen Rep - Agency Entity
+OIUGR_MASTER,Gen Rep - Master
+OIUGR_OWNXRF,Gen Rep - Owner / Report XRef
+OIUGR_ROYHST,Gen Rep - Royalty Transaction History
+OIUGR_ROYTXN,Gen Roy 2.0 - Maintain Royalty Transactions
+OIUGR_SOL,Gen Roy 2.0 # Statute of Limitation
+OIUGR_SOLE,Gen Roy 2.0 – Statute of Limitation Detail Exception
+OIUH_PR_RWC,E & P Regulatory Reallocated WC
+OIUOW_DOEX,E&P Owner Exempt
+OIUOW_DTCH,Owner Request Change Document
+OIUOW_LSEID,Lease ID Change document
+OIUOW_MKEX,E&P Marketing Free
+OIUOW_PP,Change Document for OIUOW_PP
+OIUOW_SSCL,E&P Sliding Scale
+OIUOW_UTP,OIUOW: Change document object for PUC and Tract tables
+OIUPR_SSH,Supply Source
+OIUPR_WCDPS,E&P WC Daily Pressures
+OIUREP_EIA914,Regulatory Reporintg EIA-914 Form
+OIUREP_GROUP,Regulatory Reporting - EIA-914 Group
+OIUREP_MRT_HIST,MMS-2014:  History Change Document (regener)
+OIURV_SSTD,Change Doc for OIURV_SSTD
+OIURV_TCD,Change Document for Tax Calculation Data
+OIUT2_BO_API,Business Object API customising
+OIUT2_GLOBAL,Change Docs for Global Interface table
+OIUT5_ASU,Tax 2.0 OK - Auto Suspend
+OIUT5_ASUE,Tax 2.0 OK - Auto-Suspend Exception
+OIUT5_KUNXRF,Tax 2.0 OK - Customer XRef
+OIUT5_MASTER,Tax 2.0 OK - Master Data
+OIUT5_PUN_INFO,Tax 2.0 OK - PUN Info
+OIUT5_SOLE,Tax 2.0 OK - Statute of Limitation Exception
+OIUT5_TAXHST,Tax 2.0 OK - Tax History
+OIUT5_TAXTXN,Tax 2.0 OK - User Tax Transactions
+OIUVL_GSP,Gas Statement Profile
+OIUVL_MTA,IS-OIL E&P: Marketing Cost Tax Allowance
+OIUVL_OSP,Oil Statement Profile
+OIUVL_RPAH,Change Documents for Royalty Processing Allowance
+OIUVL_STR,Change Document for State Tax Rates
+OIUVL_TPAH,Change Documents for Tax Processing Allowance
+OIUVL_TTX,E&P Tier Tax
+OIUVL_TXCL,E&P Tax Classification Data
+OIUX3_RPT_PROFC,Reporting Profile change document
+OIUX3_TX_ASUE,Tax 2.0 TX - Auto Suspend Exception
+OIUX3_TX_LEASEM,Texas lease Master Change Document
+OIUX3_TX_SOL,Tax 2.0 -  Texas Statute of Limitation
+OIUX3_TX_SOLE,Tax 2.0 - Statute of Limitation Exception
+OIUX3_TX_TAXTXN,Tax 2.0 - TX - Tax Transactions
+OIUX5_OK_ASU,Tax 2.0 - Oklahoma Auto Suspend
+OIUX5_OK_BATXID,Tax 2.0 - Oklahoma BA Tax ID
+OIUX5_OK_MASTER,Tax 2.0 - Oklahoma Master Data
+OIUX5_OK_SOL,Tax 2.0 - Oklahoma Statute of Limitation
+OIUX5_OK_SOLE,Tax 2.0 - Statute of Limitation Exception
+OIUX5_OK_TAXHST,Tax 2.0 - Oklahoma - Tax History
+OIUX5_OK_TAXTXN,Tax 2.0 - Oklahoma Tax Transactions
+OIUX5_OK_ZVOL,Tax 2.0 - Oklahoma Zero Volume Reporting Master
+OIUX6_WYCTAXHST,Tax 2.0 - Wyoming Conservation Tax History
+OIUX6_WYCTAXTXN,Tax 2.0 - Wyoming Conservation Tax Transactions
+OIUX6_WYSTAXHST,Tax 2.0 - Wyoming Severance Tax History
+OIUX6_WYSTAXTXN,Tax 2.0 - Wyoming Severance Tax Transactions
+OIUX6_WY_ASU,Tax 2.0 - Wyoming Auto Suspend
+OIUX6_WY_ASUE,Tax 2.0 - WY Auto Suspend Exception
+OIUX6_WY_BAOPID,Tax 2.0 - Wyoming BA Operator ID
+OIUX6_WY_LCDOVR,Tax 2.0 - Wyoming Lease Condensate Override
+OIUX6_WY_MASTER,Tax 2.0 - Wyoming Master Data
+OIUX6_WY_SOL,Tax 2.0 - Wyoming Statute of Limitation
+OIUX6_WY_SOLE,Tax 2.0 - Wyoming Statute of Limitation Exception
+OIUX6_WY_ZVOL,Tax 2.0 - Wyoming Zero Volume Master
+OIUX7_WY_MKTOVR,Tax 2.0 - WYGP Mkt XRef Override
+OIUX8_NMITCMST,Tax 2.0 - New Mexico ITC Master data
+OIUX8_NM_AFFOVR,Tax 2.0 - NM - Affiliation Code Override
+OIUX8_NM_ASU,Tax 2.0 - NM - ASU
+OIUX8_NM_ASUE,Tax 2.0 NM - Auto Suspend Exception
+OIUX8_NM_JC_MST,Tax 2.0 - NM - Jicarilla Credit Master
+OIUX8_NM_MASTER,Tax 2.0 - NM - Master
+OIUX8_NM_SOL,Tax 2.0 - NM - Statute-Of-Limitation
+OIUX8_NM_SOLE,Tax 2.0 - NM - Statute of Limitation Exception
+OIUX8_NM_SUFXRF,Tax 2.0 - NM - Suffix X-ref
+OIUX8_NM_TAXHST,Tax 2.0 - New Mexico Tax History
+OIUX8_NM_TAXTXN,Tax 2.0 - NM - Tax Transactions
+OIUY3_TX_ASU,Royalty 2.0 - TX GLO/TAMU - ASU
+OIUY3_TX_ASUE,Roy 2.0 TX ASUE
+OIUY3_TX_BAXRF,Royalty 2.0 - TX GLO/TAMU - BA XRef
+OIUY3_TX_CTRL,Royalty 2.0 - Texas GLO/TAMU - Reporting Control Master
+OIUY3_TX_LEASE,Royalty 2.0 - TX GLO - Lease Master
+OIUY3_TX_MASTER,Royalty 2.0 - TX GLO/TAMU - Master
+OIUY3_TX_OWNOVR,Royalty 2.0 - TX GLO/TAMU Owner Level Reporting Override
+OIUY3_TX_PDCXRF,Royalty 2.0 - TX GLO/TAMU - Production Disposition XRef
+OIUY3_TX_RDCXRF,Royalty 2.0 - TX GLO/TAMU - Royalty Disposition Code XRef
+OIUY3_TX_RDXRCT,Royalty 2.0 - TX GLO/TAMU - Royalty Dispn Code XRef at Ctrct
+OIUY3_TX_ROYHST,Royalty 2.0 - TX GLO - Royalty Transaction History
+OIUY3_TX_ROYTXN,Roy 2.0 - Texas GLO/TAMU Royalty Transactions
+OIUY3_TX_RRC,Royalty 2.0 - TX GLO/TAMU - RRC Master
+OIUY3_TX_SOL,Royalty 2.0 - TX GLO - SOL Master
+OIUY3_TX_SOLE,Royalty 2.0 - Texas GLO/TAMU SOL Exception
+OIUY3_TX_UNIT,Royalty 2.0 - Texas GLO/TAMU - Unit Master
+OIUY5_OK_ENTITY,OK Royalty Generic: Entity change document object
+OIUY5_OK_PROF,Tax 2.0 OK Reporting Profile
+OIUY6_WY_ASU,Royalty 2.0 - Wyoming ASU
+OIUY6_WY_ASUE,Roy 2.0 WY ASUE
+OIUY6_WY_CAPOVR,Roy 2.0 - Wyoming - CA Percent Override
+OIUY6_WY_CBMOVR,Royalty 2.0 - Wyoming Coal Bed Methane Override
+OIUY6_WY_LEASE,Royalty 2.0 - Wyoming Lease Master
+OIUY6_WY_MASTER,Royalty 2.0 - Wyoming Master
+OIUY6_WY_PRICE,Royalty 2.0 - Wyoming Report Price
+OIUY6_WY_ROYHST,Roy 2.0 - WY - Royalty History
+OIUY6_WY_ROYTXN,Roy 2.0 - Wyoming Royalty Transactions
+OIUY6_WY_SOL,Royalty 2.0 - WY - SOL Master
+OIUY6_WY_SOLE,Royalty 2.0 - Wyoming Statute of Limitation Exceptions
+OIUY6_WY_ZVOL,Royalty 2.0 - WY - Zero Volume Master
+OIUY8_NM_ENTITY,New Mexico Royalty Generic: Entity change document object
+OIUY8_NM_PROF,Tax 2.0 NM Reporting Profile
+OIUY9_LA_ENTITY,Change document for OIUY9_LA_ENTITY
+OIUY9_LA_MASTER,LA Royalty Generic: Master change document object
+OIUY9_LA_PROF,Tax 2.0 LA Reporting Profile
+OIUYA,Colorado Royalty Generic: Master change document object
+OIUYA_ENTITY,Colorado Royalty Generic: Entity change document object
+OIUYC_BA_RPTID,Royalty 2.0 - Report ID Owner Cross Reference Master
+OIU_ACR,E&P Allocation Cross Reference
+OIU_AVD,E&P Monthly Availability
+OIU_BRGP,Bearer Group
+OIU_CAMP,E&P Contract Volume by Measurement Point
+OIU_CAP,E&P Capacity
+OIU_CHAH,E&P Chemical Analysis
+OIU_CTPAM,Contract Plant Allocation Method
+OIU_CTR,E&P CA Manual Entry
+OIU_CTYP,E&P Component Typification
+OIU_CUSPAM,Change Docs for Customer Plant Allocation Method
+OIU_DI,E&P Division of Interest
+OIU_DMCH,Change documents for DOI Marketing Cost header/detail tables
+OIU_DN,E&P Delivery Network
+OIU_DNAP,E&P Delivery Network Allocation Profiles
+OIU_DNVD,E&P Delivery Network Dated
+OIU_DN_LINK,Change Documents for Delivery Network Links
+OIU_DP,E&P DOI Accounting
+OIU_DPUC,E&P DOI Product Use Control
+OIU_ESCH,Change log related to Escheat transactions
+OIU_FL,E&P Field Change Documents
+OIU_FRML,E&P VA Formula Rules
+OIU_FRMLD,E&P Change Docs for OIU_RV_FRMLD
+OIU_GRVD,E&P Gravity Details
+OIU_HV,E&P Measurement Point and Well Completion Def. Heating Value
+OIU_JV,E&P Joint Venture
+OIU_LEASE,Lease Change document
+OIU_LWGOR,E&P Lease Wide GOR
+OIU_MEDOC,E&P Measurement Document
+OIU_MGD,E&P Marketing Group
+OIU_MGID,E&P Delivery Network Measurement Group
+OIU_MKT,E&P Internal Marketing Rates
+OIU_MKT_FG,Marketing Free Group Change Document
+OIU_MP,E&P Measurement Point
+OIU_MPAP,E&P Measurement Point Allocation Profile
+OIU_MPFUS,E&P MP Fuel Usage
+OIU_MPMSP,E&P MP Meter Specifications
+OIU_MPTRN,E&P Measurement Point to Transporter Xref
+OIU_MPVD,E&P Measuring Point Dated Change Documents
+OIU_NIMB,E&P Marketing Group Network Imbalance
+OIU_NPC,Valuation Network Processing Control
+OIU_OZOP,E&P Outside Operated Residual Contract
+OIU_PDXSS,E&P Purchaser to DOI Xref for Settlement Statement
+OIU_PF,E&P Platform Change Documents
+OIU_RANK,E&P Transporter Ranking
+OIU_RES,E&P Reservoir Change Documents
+OIU_RMAT,E&P Change Documents for WC/MP Reproduced Materials
+OIU_RVT,Rejected Valuation Transactions
+OIU_R_FRML,E&P: Revenue Formula ID
+OIU_SRC,E&P Multiple Sales Sourcing Change Documents
+OIU_TCM,E&P Theoretical Calculation Methods
+OIU_TOV,E&P MP/WC Theoretical Override
+OIU_TRRMB,Change Documents for Tax and Royalty Reimbursement
+OIU_VCR,Valuation Cross Reference change documents
+OIU_VPPNM,Manual PPN's (Reason Code)
+OIU_VPPNU,Valuation Prior Period Notification
+OIU_WC,E&P Well Completion Change Documents
+OIU_WCDH,E&P Well Completion Downhole Commingled
+OIU_WCDT,E&P Well Completion Downtime
+OIU_WCOL,Change Documents for WC Contamination Override
+OIU_WCTRN,E&P Well Completion to Transporter Xref
+OIU_WCVD,E&P Well Completion Dated
+OIU_WELL,E&P Well Master Data
+OKP1,Change Document for OKP1
+OPENPOSTGPERIOD,Change Document for OPENPOSTGPERIOD
+ORDER,Change documents for networks and orders
+ORDERBUCH,Change Documents for Source List Entries
+ORDERBUCH2,Change Documents for Source List Entries
+OVDACCESSSQNC,OVD Access Characteristic Value Combination Change Logs
+OVDCHARCCOMBN,ATP OVD characteristic combination change document object
+OVF_DISABLEMENT,Disablement of Validation Checks for partner
+OVF_HISTORY,History of Validation Checks
+OVS_HISTORY,History of Validation Checks
+PAYRQ,Payment Request/Payment Transfer
+PBC,Position Budgeting and Control
+PCA_BLOCK,Change Documents Payment Card Master: Blocks
+PCA_MASTER,Changd Documents Payment Card Master General
+PCEC,Change document object for PCEC
+PEG_TACTASS,Pegging: Change Document Object for PEG_TACTASS
+PEG_TACTASS_MFL,Pegging: Change Document Object for PEG_TACTASS (MFLE)
+PEG_TASS,Pegging: Change Document Object for PEG_TASS
+PEG_TASS_MFLE,Pegging: Change Document Object for PEG_TASS (MFLE)
+PEG_TBRKDEF,Pegging: Change Document Object for PEG_TBRKDEF
+PEG_TBRKDEF_MFL,OBSOLETE! - Pegging: Change Document Object (MFLE)
+PEG_TSTK,Pegging: Change Document Object for PEG_TSTK
+PEG_TSTK_MFLE,Pegging: Change Document Object for PEG_TSTK (MFLE)
+PERIOD,Posting periods & variants
+PFCG,Change Documents for Role Maintenance
+PFM_PLC_STATUS,CRR Status Change
+PICHD,Change Document for Material Interchangeabilities (SuS/MPN)
+PIQAGR,Change Document Object: Appraisal
+PIQATPREEXC,Changed Document for Pre Excused Absence
+PIQAUDF,Requirement Profile
+PIQAUDR,Audit
+PIQCMPR,Change Document Object for Assessment Processes
+PIQDB_STACAD,Change Document For PIQDB_STACAD
+PIQDB_STBOOK,Change Document for PIQDB_STBOOK
+PLAN,Documents for plans
+PLAN_VERS_OAN,Change Documents for Versioned Routing: OAN Layer
+PMMO_PEG_BPT,Change Document for Pegging Breakpoints
+PMMO_PEG_EXC,Change Document for PMMO Pegging Exceptions
+PMSDO,SD organizational data for PM order
+PPE,Changes of Pricing and Payment Events
+PPEACTA,iPPE: Mode of the Activity
+PPEACTN,iPPE: Activity Node
+PPEACTR,iPPE: Relationship of the Activity
+PPEBAL,iPPE: Line Balance
+PPECMPA,iPPE: Component Alternatives
+PPECMPN,iPPE: Component Nodes
+PPECMPR,iPPE: Component Relationships
+PPECMPV,iPPE: Component Variants
+PPECOLN,iPPE: Color Node
+PPECOLV,iPPE: Color Variant
+PPECONN,iPPE: Concept Group
+PPECONV,iPPE: Solution Concept
+PPEEQRN,iPPE: Equipment Requirement Node
+PPEEQRREL,iPPE : Equipment Requirements (Relationships)
+PPEFLOA,iPPE: Factory Layout Alternative
+PPEFLON,iPPE: Factory Layout Node
+PPEFLOR,iPPE: Factory Layout Relationships
+PPEGENN,iPPE: Generic Engineering Node
+PPEGENR,iPPE: Relationships for Generic Engineering Node
+PPEHDR,iPPE: Access
+PPEMMX,iPPE: Model Mix
+PPEPOBAN,iPPE : Process Object (Action) Node
+PPEPOBAREL,iPPE : Process Object (Operation-Action) Relationship
+PPEPOBIREL,iPPE : Process Object Assignment Relationship
+PPEPOBON,iPPE : Process Object (Operation) Node
+PPEPOBOREL,iPPE : Process Object (Stage-Operation) Relationship
+PPEPOBRREL,iPPE : Process Object (Operation-Operation) Relationship
+PPEPOBSN,"iPPE : Process Object (Process, Stage) Node"
+PPEPOBSREL,"iPPE : Process Obj. (Process-Stage, Recipe-Stage) Relatnship"
+PPERCPN,iPPE: Recipe Node
+PPERCPREL,iPPE: Relationships
+PPERCPV,iPPE: Recipe Variant
+PPERESN,iPPE: Resource Node
+PPESCMPV,iPPE: Status of Component Variants
+PPESETN,iPPE: Node for Set Documentation
+PPESETR,iPPE: Relationship for Set Documentation
+PPESETV,iPPE: Variant for Set Documentation
+PPESGENN,iPPE: Status of Generic Node
+PPH_PRODH_ASMT,Configuration Assignment PP Production Hierarchy
+PPMGCO_PYM_REQ,Payment request change document object
+PPMG_CDO_ACCR,Prepayment Agreement Accrual CDO
+PPMG_CDO_APPR,Prepayment Approval BOPF CDO
+PPMG_CDO_DBD,Prepayment Agreement Dashboard
+PPMG_CDO_DLTC,Change document for DL TC Linking table
+PPMG_CDO_PPMT,Change Document for Prepayment Agreement
+PPM_OBJECT,xRPM portfolio objects
+PRCTR,Profit center master record
+PRF_CHNG_LOG,Change Log Recording for Tables related to PRF Framework
+PRODCAT,Product catalog
+PROJ,Project structure plan (PSP)
+PROJS,Standard project definition
+PRZNR,CO-ABC: Business process
+PSFACTS,Facts
+PSLEGALDESC,Legal Description of Parcel
+PSOB_PSDD,Public sector due date for contract object
+PSODAUERAO,Change Documents for Standing Requests
+PVOL_CAPTURE,Change document for production volume capture
+QAMR,QM: inspection feature result
+QAPO,QM: Change Documents for Inspection Lot Operation
+QASR,QM: sampling result
+QCVK,QM: Certificate profiles
+QCVK_S4H,QM: Certificate profiles with long MATNR
+QIE_ELEM,QIE: Element
+QIE_FIND,QIE: Finding
+QIE_INSPDO,QIE: Inspection Document
+QIE_IRULE,QIE: Inspection Rule
+QIE_SDRW,QIE: Inspection Procedure
+QINF,QINF change documents
+QINF_S4H,QINF change documents with long MATNR
+QKOTI,Change Document Object for Certificate Profile Assignment
+QMEL_EXT,Change Documents for Notification Enhancement Table
+QMSP,Material specification change documents
+QMSP_S4H,Material specification change documents with long MATNR
+QMULTSPEC,Multiple Specification
+QM_DEFECT,Change Document Object for Record Defects Fiori Application
+QM_TASK,Change Document Object for Process Quality Tasks Fiori App
+QPRS,QM: Sample master record
+QPRUEFLOS,Change documents for inspection lot
+QPRV,QM: Sample-drawing procedure
+QTLS,Change documents for partial lots
+QUOTEN,Change Documents for Quota Arrangements
+QUOTEN2,Change Documents for Quota Arrangements
+QVDM,"QM information records, control in SD"
+QVDM_S4H,"QM information records, control in SD with long MATNR"
+RAEUME,Change documents for rooms
+REAJ_EXPENSE,RE: Current Expenses
+REAJ_FINPLAN,RE: Financing Plan
+REAJ_NEXTADJM,RE: Date of Next Adjustment to Condition
+REAJ_OBJCOMP,RE: Adjustment Rule Object-Specific COMP
+REAJ_OBJINDX,RE: Adjustment Rule Object Specif. INDX
+REAJ_PRESTG,RE: Prestage Adjustment Record
+REAJ_REAT,RE: Adjustment Measure
+REAJ_REATOBJ,RE: Cost Definition for Adjustment Measure
+REAJ_RECG,RE: Comparative Group of Apartments (Basic Data)
+REAJ_RULE,RE: Adjustment Rule
+REAJ_SPECINDX,RE: Adjustment Rule Method-Specific INDX
+REAJ_TERM,RE: Adjustment Rules for Contract/Rental Object
+REAR_REAR,Change documents for rental request
+REBD_AOFUNC,RE: Architectural Object - Function
+REBD_AONO,RE: Number Ranges for Subordinate Arch. Objects
+REBD_BUPT,RE: Property Tax Data for Building
+REBD_CHARACT,RE: Fixt. and Fittings Characteristics
+REBD_CNSUBJECT,RE: Contract Object
+REBD_INFRA,RE: Location Description/Infrastructure
+REBD_LOCHIER,RE: Hierarchical Location Structure
+REBD_MEAS,RE: Measurements
+REBD_OBJASS,RE: Object Assignment
+REBD_OBJREL,RE: Object Relationship Arch. Object <=> Rental Object
+REBD_PMREL,RE: OBSOLETE
+REBD_PRPT,RE: Property Tax Data for Land
+REBD_REAO,RE: Architectural Object (Basic Data)
+REBD_REBE,RE: Business Entity (Basic Data)
+REBD_REBU,RE: Building (Basic Data)
+REBD_REPR,RE: Property (Basic Data)
+REBD_RERO,RE: Rental Object (Basic Data)
+REBD_ROOC,RE: Occupancy
+REBP_ADDRESS,RE: Address of RE Object
+REBP_ADDRREL,RE: Addresses
+REBP_OBJREL,RE: Business Partner Object Relationship
+RECA_RECUR,RE: Recurrence Rule
+RECA_RSRULE,RE: Resubmission Rules
+RECE_RULE,RE: Valuation Rule
+RECHNUNG,Change Document for Deleting Blocking Reasons
+RECN_BDOA,RE: OBSOLETE
+RECN_DPACTUAL,RE: Actual Security Deposit for RE Contract
+RECN_IOIB,"Change Document for ""Real Estate Object in Own Portfolio"""
+RECN_MEASCN,RE: Different Measurements
+RECN_NT,RE: Notice
+RECN_POS2,Real Estate China Localization: Store Plus
+RECN_RECD,RE: Conditions
+RECN_RECG,RE: OBSOLETE
+RECN_RECN,Change Document for Real Estate Contract
+RECN_REGC,RE: Real Estate Contract (Basic Data)
+RECN_RN,RE: Renewals
+RECN_SCS,Change Documents for Real Estate Contract - SCS
+RECN_STORE,RE: Store
+REEX_ASSET,RE: OBSOLETE
+REEX_FIWTITEM,RE: FI Withholding Tax Item
+REIP_INTCOST,RE: Integration Object Int. Cost Allocation
+REIP_IOTIMELINE,Integration Object Timeline
+REIP_OBJREL,RE: Integration Object Relation
+REIP_REIO,RE: Integration Object
+REIT_BASE,Tax Document Item To Be Split
+REIT_OR,RE: Option Rates
+REIT_RETC,RE: Correction Object (Basic Data)
+REIT_TCBASE,RE: Basis for Input Tax Correction
+RELM_JLLRREL,RE: Joint Liablility - Land Registers
+RELM_LREM,RE: Rights and Easements
+RELM_LREMCHG,RE: Changes to Rights and Easements
+RELM_LRRG,RE: Real Estate Register of Land Register
+RELM_LRRGCHG,RE: Changes to Real Estate Register of Land Register
+RELM_LRSEC1,RE: Land Register - Section 1
+RELM_NAVAL,RE: Notice of Assessment: Annual Values
+RELM_PECS,RE: Other Public Register - Contamination/Non-Hazard.Waste
+RELM_PEER,RE: Other Public Register - Easement
+RELM_PLMAP,RE: Parcel Maps
+RELM_PLSLIDE,RE: Overlays and Classifications
+RELM_PLUS,RE: Usage and Development Planning
+RELM_RCPL,RE: Parcel Update
+RELM_REJL,RE: Joint Liability
+RELM_RELR,RE: Land Register
+RELM_RELRPN,RE: Processing Number in Land Register
+RELM_RENA,RE: Notice of Assessment
+RELM_REPE,RE: Other Registers
+RELM_REPL,RE: Parcel
+RELM_RERC,RE: Parcel Update
+RELOBJECTS,Released objects
+REMM_HBACC,RE: Mandate - House Bank Accounts
+REMM_REMN,RE: Mandate
+REOR_OBJSTAT,RE: Status of Search (Enhanced)
+REOR_PO,RE: Continuous Occupancy
+REOR_REMP,RE: Move Planning (Header)
+REOR_REOF,RE: Contract Offer
+REOR_REOO,RE: Offered Object
+REOR_RERR,RE: Rental Request
+REOR_RERS,RE: Reservation
+REOR_RERSCOST,RE: Reservation - Costs
+REOR_RERSPART,RE: Reservation - Attendee
+REOR_RERSREC,RE: Recurring Reservation
+REOR_SERVICE,RE: Services
+RESC_ACCFIRM,RE: Consumer Number at Settlement Company per Rental Object
+RESC_EXBASERATE,RE: Basic Components of Ext. Settlement per SU
+RESC_MP,RE: Additional Characteristics and Objects for Meter
+RESC_MSU,RE: Participating Settlement Units per Master SU
+RESC_PERIOD,RE: Settlement Variants per SU
+RESC_REPG,RE: Participation Group (Basic Data)
+RESC_RESU,RE: Settlement Unit (Basic Data)
+RESC_SESETTING,RE: Settings per Settlement Purpose
+RESC_SHARE,RE: Split Settlement Factors per Settlement Variant
+RESC_SP,RE: Settlement Participation in Service Charge Settlement
+RESRTM_MSB,RE: Peak Sales Rule - Calculation
+RESRTM_NSB,RE: Sales Rule - Calculation
+RESRTM_RP,RE: Reporting Rule
+RESRTM_SB,RE: Sales Rule (General)
+RESR_REPORT,RE: Sales Report
+RESSOURCE,Work center/Ressource
+RETM_FIOA,RE: Organizational Assignment Term
+RETM_FIPY,RE: Postings Term
+RETM_FIRH,RE: Frequency Term
+RETM_FIWT,RE: Withholding Tax Term
+RETM_OBJREL,RE: Object Assignment per Term
+RETM_PENT,RE: Notice Term
+RETM_PENTPROC,RE. Individual Notice Procedure
+RETM_PERN,RE: Renewal Term
+RETM_PERNRULE,RE. Individual Renewal Rule
+REVISION,DCM Versions for Purchasing Document
+REXC_AT_ORDNUM,Purchase Order Number
+REXC_CORR,RE: Correction/Reversal Invoice - Inv. Item Reference
+REXC_ES_IBI,RE: Spanish localization - IBI data
+REXC_ES_M180DEC,RE: Spanish localization: Modelo 180 - Declarant data
+REXC_ES_M180REC,RE: Spanish localization: Modelo 180 - Recipient data
+REXC_ES_PROPREG,RE: Spanish localization - Property Registry
+REXC_FC_FS,RE: Fuel Movement
+REXC_FR_BUDGET,RE: French localization - Budget Seasonality data
+REXC_FR_SRU,RE: French localization - SRU data
+REXC_FR_SRULOG,RE: French localization - SRU Log data
+REXC_IT_CAD,RE: Italian localization - Cadaster Data
+REXC_IT_CADCH,Cadastral Data Changes
+REXC_IT_ICI,RE: Italian localisation - ICI data
+REXC_IT_IRE,RE: Italian localisation - IRE data
+REXC_IT_IRE2,RE: Italian localisation - IRE2 data
+REXC_IT_LOG,RE: Italian localization - Cadaster Log Data
+REXC_IT_TASI,RE: Italian localisation - TASI data
+REXC_PT_IMI,RE: Portugal localization - IMI data
+REXC_PT_IMICASH,RE: Portugal Localization - IMI Cashflow data
+RFM_PSST,Change Documents for PSST
+RFM_SEASON,Change Documents for Season Master
+RKABRV,Change Documents for Settlement Rules
+RKAUFTRAG,Internal order/CO production order
+RLACSTCDX,"Change documents for tables RLACSTHD, RLACSTIT (int. tables)"
+RLMFW_ORDER,Release Order
+RMS_FRMLN,RMS-FRM: Change Documents for Formula PVS Node
+RMS_FRMLV,RMS-FRM: Change Documents PVS Variant of Formula
+RMS_LABEL,Change Document for Labeling (RMS)
+RPM_OBJECT,xRPM portfolio item objects
+RSH_ASGN_CHDOC,Change documents for Assignments
+RSM_TEAM_CHGDOC,Responsibility Management
+RTGT_ASSET_POOL,Change Document Object of Rating for Asset Pool
+RTGT_CLASS,Change Document Object of Rating for Class
+RTGT_FIN_TRANS,Change Document Object of Rating for Financial Transaction
+RTP_US_PLAN_CHD,Change document for RTP_US_PLAN
+SACH,Change documents for G/L maintenance
+SADOCATTR,"Documents: Attribute, Keyword and Link"
+SADOCDSIGN,Change Document Object for Digital Signature
+SAMS,Change documents for model account maintenance
+SCPRATTR,Customizing profiles: Attributes
+SCPRDATA,"Customizing profiles: Tables, fields and values"
+SCPRPPRL,Customizing profiles: Profile-set-to-profile relationships
+SCPRTEXT,Customizing profiles: Short texts
+SCPRVALL,BC Set: Values (language-dependent)
+SCPRVALS,BC set: Values
+SDDC_PH_ASSGMT,Configuration Assignment Product Hierarchy to Distr. Chain
+SD_CONTACT,Obsolete: Change Documents for CAS Sales Activity Documents
+SD_KNMT,Sales: Customer Material
+SD_SALESPLAN,Sales: Sales Plan
+SD_SA_DVTN_PRFL,Deviation Profile
+SD_SA_MD_CHANGE,Sales: Sold-to Party Assignment
+SD_SLSORDREQ,Change Documents for Sales Order Request
+SE16N_ROLE,SE16N: Restriction of authorizations
+SECM,SECM: Change Documents for SECM Tables
+SECURITY_POLICY,Change Documents for Security Policies
+SERNR,Change documents for serial numbers
+SETS,Sets (co-groups)
+SETUPGROUP,Change Document Object for Setup Groups
+SGT_MD,Segmentation Related tables
+SLEI_CD_TST,Test object for LEI unit tests
+SMI_CD_OBJ,Change Document Object - Social Intelligence
+SPD_HEADER,SPD. Header data. Supporting document statement
+SPD_ITEM,Supporting document statement Items data
+SPEC_TMP,Model Service Specifications
+STATUS,IMG and CATT status
+STAT_PR,Basis Project Management Change Documents
+STAT_TW,Status for Test Workbench
+STLV,Change Documents for Standard Service Catalog
+STRUSTCRR,CHDO STRUSTCRR => through SCDO generated
+STRUSTCRT,CHDO STRUSTCRT => through SCDO generated
+STUE,Object list change documents
+STUE_V,Object exclusively for data distribution object lists
+SU22_USOBT,Change documents for field values (SU22: USOBT)
+SU22_USOBX,Change documents for check indicator (SU22: USOBX)
+SUPPLCONF,Supplier Confirmation
+SUSR_PROF,Change Document Data for Profiles and Authorizations
+SU_USOBT_C,Change documents for field values in USOBT_C (SU24)
+SU_USOBX_C,Change documents for check indicator in USOBX_C (SU24)
+SWE_CD_TST,Test of Event Triggering via Change Documents
+S_GLOSSARY,Log of Changes to Glossary Texts
+S_HIERARCH,General hierarchy maintenance tool: Change documents
+S_TERMINOL,Change Log for Terminology
+S_TWB,Change Document Test Organizer
+TAN_EXEM_IN,Change Object for TAN Exemption for India
+TAX_CARD_QA,Change Object for Qatar Tax Card Data
+THMTHI,Hedge Item change document
+THMTHR,Hedge relationship change document
+THMTPL,Hedge planner item change documents
+THMTTCO,Commodity Exposure Changes
+THMTTFX,FX exposure transaction change document
+THMTTIR,IR exposure tranasaction change document
+THX_CD_HREL,Change Document for Hedging
+TMA_CLAIM,Intelligent Claims: Change Documents
+TOE_HREQ,Hedge Request
+TPM_PIN_TRS,Securities Account Position Indicator
+TRANSPORT,Change Document Shipment
+TRA_AUTH,Transaction authorization for traders
+TRIAL,Change Document for Trial Planning
+TXRG_TAX_PYBL,Tax Payable Change document object
+UDM_CCT_CD,Logging for Modified Customer Contacts
+UPO_NO_VD_CD,Network Object Variable Data Change Document
+USERDEF,Procurement :  Change Document for User Default Settings
+USER_CUA,Change Documents in Central User Administration Environment
+USMD,SAP Master Data Governance
+USMD_ACT,SAP Master Data Governance: Activation of Change Requests
+VALUE_SCL,Change document for Value and Quota Scale
+VANSCHRIFT,DARWIN: Addresses and Address Relationships
+VASMD,Service Master Change Documents
+VBELEIHUNG,DARWIN: Collateral value
+VBEX,Inspection: Export control data in SD document
+VCNUM,Change documents for maintenance of payment card customers
+VDARLEHEN,Loan: Contract
+VDARLEHEN_CBP,DO NOT USE: Loan: Contract
+VDARL_CBP,Loan: Contract
+VDBUSOP,Business transaction
+VDBUSOPER,Loans: Business Operation
+VDCOLLATE,Loan: Collaterals (without encumbrances)
+VDCOLLATE_CBP,Loan: Collaterals (without encumbrances)
+VDCOLL_CBP,Loan: Collaterals (without encumbrances)
+VDESCROW,Loans: Change Document Object Escrow
+VDPRADMIN,Administration Data for Profile Configurator
+VDPRATTR,Attributes for Profile Configurator
+VDPRVALUES,Profile Configurator
+VDSUBLEDGER,CML: Subledger Documents
+VD_DISBURSE,Loan: Disbursements
+VEHICLE,Change Document Object for VMS Vehicle
+VEN_VAT_KR,Vendor: Change document for VAT Registration
+VERGLBEST,Comparative appartments group
+VERGLWOHN,External comparative apartment for rent adjustment
+VERKBELEG,Sales: Sales Document
+VGLZUORDN,Assignment to comparative group of apartments
+VINET,Change documents object networking
+VOBJEKT,DARWIN: Object
+VOBJEKT_CBP,Loans: Objects
+VOBJ_CBP,Loans: Objects
+VPARTNER,DARWIN: Partner data
+VTBFHA,Treasury: Transaction
+VTBLL,Limit Management: Limit Transfer
+VTBLR,Treasury: Reservations for Limits
+VTBLV,Treasury: Limits
+VTBMA,Treasury: Master agreement
+VTBPA,Treasury: Transaction Partner Assignment
+VTBRULESET,Treasury: Rule Management
+VVKKVTRG,Contract data table
+VV_UV_HIST,History file update: Sales settlement
+VWEVENT,Events for management contract
+VWGATTUNG,Class data: Securities (FAM)
+VWREDEMPT,Conditions
+VWVERTRAG,Change documents for management contracts
+WAP,WCM: Work Approval
+WAPI,WCM: Application
+WBASISWG,T023 and T023T data change documents
+WBGT,Global Trade: Additional Data
+WBHK,Trading Contract: Change Documents
+WCD,WCM: Work clearance document
+WCDI,WCM: Work Clearance Document (Items)
+WCOCO,Condition Contract Changes
+WFD_ASSIGNMENT,Change document object for workforce assignment
+WFRULES,Workflow: Rules for a process type
+WFVORFALL,Process: SAP workflow
+WIRTSEINH,Business Entity
+WITH_ITEM,Change document for witholding tax information
+WLK1,Service conditions
+WLK2,POS data R/3 retail (generative) article master
+WLOSITEREF,Change Document for Reference Site Logistic Data
+WREFA,Reference Sites Listing
+WRF_FIBER_CODES,Change Documents for Textile Components and their Fibers
+WRF_FOLUP_TYP_A,Change Documents for Table WRF_FOLUP_TYP_A
+WRF_GEN_HIER,Change Document for Generic Hierarchy
+WRF_MATGRP_OBJ,Change Documents for Article Hierarchy WRF_MATGRP_OBJ
+WRF_PRC_CTR_DL,Change Documents for Date Lines Header and Item Data
+WRF_PRGRP,Change Documents for Price Groups
+WRF_PSCD_ROUTE,Retail Fashion Move Times
+WRF_REF_HEAD,Change Documents for Reference Module Assignment
+WRF_REF_MODULE,Change Document for Reference Module
+WRMA_LIVDT,Change Object for Last Date of Physical Inventory
+WRPL,Replenishment Master Data
+WRS1,Retail assortment
+WTADDI,Additionals: Change document object
+WTY_CLAIM,Warranty Claim Processing Warranty Claim
+W_BBY,Change Document Object for Retail Bonus Buy
+W_PROMO,Promotion: Change Document Object
+XBRL_GCD,gcd revision change document
+XXDBTEST05,Test: 4.0 Transport procedure

@@ -1,0 +1,504 @@
+Event,Event Description
+A00,> Text &9&9&9&9&4 line &4 event &9&9
+A01,Message SY&4(&9&9&9&3)
+A02,Program buffer re-initialized
+A03,Breakpoint &9&9&9&9&4 reached
+A04,Invalid load format for &9&9&9&9&4
+A05,No memory available
+A06,Message SY&4(&9&9&9&3)
+A07,Timeout
+A08,Main memory destroyed
+A09,Too many dependencies for &9&9&9&9&4.
+A10,Initialization complete
+A11,PXA recovery after reboot
+A12,>>> Emergency installation <<<
+A13,> Generation of program text &4&9&9&9&9 line &4
+A14,"> in program &4&9&9&9&9, line &4, event &2&9&9"
+A15,Runtime error &9&9&5 in program &4&9&9&9&9.
+A16,Error &9&9&5 generating program &4&9&9&9&9.
+A17,> &6&4&6&4&6&4&6&4&6&4&6&4&4
+A18,C debugging activated
+A19,Field contents changed: &5&9&9&9&9&9
+A20,> Error code $$$$$$$$$$$$$$$$$$$$
+A21,Shared Memory for PXA buffer not available
+A22,SORT ... AS TEXT error occurred in table row &4
+A23,Goto ABAP Debugger: &9&9&9&9
+A24,System time: Cannot go back (< 3 sec.). Wait &4 second(s)
+A25,PXA directory GC triggered for fragment &A: &B entries were reclaimed
+A26,A manually caught process was stopped from within the Debugger (&A)
+A27,Database table &5&5&5&5&5&5 not found for READ TABLE
+A28,DB &8 executed on explicit request from the debugger
+A29,"System time: Cannot go back (> 2 sec.). Use last ""valid"" time"
+A30,System time: Cannot be synchronized with the time of the database server.
+A31,Problems detected in the prerequisites for AMDP (see following statements)
+A33,Runtime Monitor deactivated itself due to an error.
+A34,Problem state occurred in Runtime Monitor.
+A35,iXML: DTD parsing attempted but forbidden by configuration
+A36,iXML: DTD expansion exceeds valid limit
+AB0,"Runtime error ""&a&b&c"" occurred."
+AB1,"> Short dump ""&6 &6 &8&8&8&8 &6&6"" created."
+AB2,> Include &8&8&8&8&8 line &4.
+AB3,Error &8&8&7 in error handling.
+AB4,Saving PXA statistics (&&&&& programs).
+AB5,Open error for PXA statistics file (error no. &>E5).
+AB6,User &6&6 forced regeneration of all ABAP programs.
+AB7,Error when ending an internal mode.
+AB8,A pipe was closed implicitly.
+AB9,Invalid handler 0x&A for signal SIGCHLD.
+ABD,Short dump deleted with default tool &A
+AC0,Invalid Print Parameters
+AC1,
+AD0,Checkpoint Group &A Activated for All Users and Servers (&B)
+AD1,Checkpoint Group &A Activated for All Users and Servers &B (&C)
+AD2,Checkpoint Group &A Activated for All Users &B and Servers (&C)
+AD3,All Activations for Assertions and Breakpoints that Can Be Activated Deleted
+AD4,Activatable Assertions: System Variant &A Activated for All Users
+AD5,Activatable Assertions: System Variant &A Activated for User &B
+AD6,Activatable Assertions: System Variant &A Activated for Server &B
+AI1,User &A confirmed no transport request is required for &B
+AIX,&A &B &C &D
+AL1,ArchiveLink: &70
+AM0,> &a&b
+AM1,Database error &a in access to &b
+AM2,Database error &a in call to procedure &b.
+AM3,Database error &a in insert to AMDP transfer table &b.
+AS0,SYNC:&A->&B: &C &D &E
+AS1,SYNC:&A->&B: &C &D &E
+AS2,SYNC:&A->&B: &C &D &E
+AS3,SYNC:&A:&B
+AS4,SYNC:&A:&B
+AS5,SYNC:&A:&B
+AS6,SYNC:&A
+AT0,Local correction of item &a type &b performed by user &c
+AT1,Local correction of item &a type &b enabled by user &c
+AU0,Audit - Test. Text: &A
+AU1,"Logon successful (type=&A, method=&C)"
+AU2,"Logon failed (reason=&B, type=&A, method=&C)"
+AU3,Transaction &A started.
+AU4,Start of transaction &A failed (Reason=&B)
+AU5,"RFC/CPIC logon successful (type=&A, method=&C)"
+AU6,"RFC/CPIC logon failed, reason=&B, type=&A, method=&C"
+AU7,User &A created.
+AU8,User &A deleted.
+AU9,User &A locked.
+AUA,User &A unlocked.
+AUB,Authorizations for user &A changed.
+AUC,User Logoff
+AUD,User master record &A changed.
+AUE,Audit configuration changed
+AUF,"Audit: Slot &A: Class &B, Severity &C, User &D, Client &E, &F"
+AUG,Application server started
+AUH,Application server stopped
+AUI,Audit: Slot &A Inactive
+AUJ,Audit: Active status set to &1
+AUK,Successful RFC call &C (function group = &A)
+AUL,Failed RFC call &C (function group = &A)
+AUM,User &B locked in client &A after errors in password checks
+AUN,User &B unlocked in client &A after entering wrong password
+AUO,"Logon failed (reason = &B, type = &A)"
+AUP,Transaction &A locked
+AUQ,Transaction &A unlocked
+AUR,&A &B created
+AUS,&A &B deleted
+AUT,&A &B changed
+AUU,&A &B activated
+AUV,"Digital signature error (reason = &A, ID = &B)"
+AUW,Report &A started
+AUX,Start of report &A failed (reason = &B)
+AUY,Download &A Bytes to File &C
+AUZ,"Digital Signature (Reason = &A, ID = &B)"
+AV1,Audit event recording was stopped (reason=&A)
+AV2,Error &A occurred when reading table &B key = '&C' (LOC = &D)
+AV3,Warning: Fill level of the Security Audit Log file exceeds &A percent
+AV4,Cannot open audit file: &A
+AV5,"I/O error in audit file &A, operation &B"
+AV6,"Initialization SCSA for Security Audit completed, number of selections &A"
+AV7,"Despite system start, a shared memory for Security Audit Log was found"
+AV8,Invalid Version (&A Not Equal to &B) of Audit Control Block in Shared Memory
+AV9,Existing shared memory for Security Audit Log is too small
+AVA,"Profile parameter FN_AUDIT contains an invalid pattern &A, error = &B"
+AVF,SAL log file &A passed to database (reason: &B)
+AVS,First SAL log database record (internal stop mark)
+AVX,"Invalid call of security audit log system functions (&A, &B)"
+AVZ,SAL event definition &A in initial status (See SAP Note 1941568)
+AW1,Web Reporting: &A
+B63,Data record from SAP table &9&9&9&3 missing for structure MCID &5&5
+B64,An internal database error caused the database transaction to abort
+B65,A database error caused the transaction to roll back.
+B66,Error reading runtime objects for $$$$$$$$$$ for synchronous MC maintenance
+B67,Analysis error in selection condition for MCID $$$$$$$
+B68,Description error for table &9&9&9&3 in synchronous MC maintenance
+B69,Record in MC table &5&5 already exists during a &6 operation
+B6A,Record in MC table &5&5 does not exist in a &6 operation
+B6B,Syn. MC maintenance deactivated fully from $$$$$$$$ by user $$$$$$$$$$$$
+B6C,Syn. MC maintenance deactivated partly from $$$$$$$$ by user $$$$$$$$$$$$
+BA0,More than 10000 logical RSQL/RTAB operations completed
+BA1,More than 50000 logical RSQL/RTAB operations executed
+BA2,More than 100000 logical RSQL/RTAB operations executed
+BA3,More than 500000 logical RSQL/RTAB operations completed
+BA4,More than 1000000 logical RSQL/RTAB operations completed
+BB0,Buffer &5&5 started with &5&5 bytes
+BB1,Buffer &5&5 reset
+BB2,Inconsistent buffer &5&5
+BB3,Inconsistency between buffer and nametab attributes for table &5&5
+BB4,Buffer &5&5 is full: &5&5 bytes
+BB5,Processing of buffer &5&5 canceled due to a semaphore error
+BB6,Buffer &5&5 starts with displacement
+BB7,Sort sequence error loading table &5&5
+BB8,Bufferoverflow loading table &5&5
+BB9,Frame overflow loading table &5&5
+BBA,Incorrect generic key loading table &5&5
+BBB,ADM-Message TBX-Buffer: Function &5&5 returns value &5&5
+BBC,Nametab-Inconsistency for Table &5&5 regarding buffering of database views
+BBD,Reset buffer &5&5; mode and status: &5&5
+BBE,Reset the Export/Import buffers; work processes &5&5 &5&5
+BBF,Internal Error in Export/Import Buffer: &5&5 &5&5
+BBG,Error in synchronization function &5&5
+BBH,Runtime object inconsistency in DB view &5&5
+BD0,ALE: IDoc registry counter changed for object channel &A: &B set to &C
+BD1,User has deleted entries from the IDoc queue (&A; Direction '&B')
+BD2,"RBDLSMAP called without required parameters. Old &A, new &B"
+BD3,Could not determine the old logical system name.
+BD4,Could not determine the new logical system name.
+BD5,The old and new logical system names are identical.
+BG0,bgRFC conversion failed for unit &A of destination &B.
+BG1,bgRFC conversion for destination &A started.
+BG2,bgRFC conversion for destination &A successfully completed.
+BG3,Job for bgRFC conversion for destination &A failed to be released.
+BG4,Temporary destination to obtain FM metadata successfully deleted.
+BG5,Temporary destination to obtain FM metadata failed to be deleted.
+BG6,bgRFC conversion failed for destination &A.
+BG7,No bgRFC monitor API authorization for destination $A.
+BG8,bgRFC conversion for destination &A failed.
+BP0,Buffer load process at server start: Dispatcher does not know server &a.
+BP1,Buffer load process at server start: Parameter error at dispatcher call.
+BP2,Buffer load process at server start: Missing authorization.
+BP3,Communication error &a at start of buffer load operation.
+BP4,System error &a at start of buffer load operation.
+BP5,Error at start of buffer load operation.
+BP6,Communication error &a at end of buffer load operation.
+BP7,System error &a at end of buffer load operation.
+BP8,Error at end of buffer load operation &a.
+BP9,Buffer load operation &c returned incomplete statistics data (&b/&a).
+BPA,Buffer load operation &a took more than an hour to end.
+BPB,"A second buffer load process ""&a/&b"" was started."
+BPC,Communication error when saving buffer assignment: &a
+BPD,System error when saving buffer assignment: &a
+BPE,Error when saving buffer assignment.
+BPF,"Buffer load process ""&a/&b/&c"" was started."
+BPG,"Buffer load process ""&a/&b/&c"" was ended."
+BPH,Saving of buffer content resumed in step &a.
+BPI,Saving of buffer content resumed after step &a.
+BPJ,Buffer load process: Lock function module not yet generated (&a/&b)
+BRA,&a&b&c&d&e&f&g&h
+BS0,Memory overflow in buffer synchronization
+BS1,Invalid synchronization class &5&5
+BS2,The synchronization module cannot allocate temporary auxiliary memory
+BS3,Semaphore error in the buffer synchronization
+BS4,Invalid length in DDLOG-NOTEBOOK field: &5&5
+BS5,The buffer synchronization has not been called for &5&5 seconds
+BS6,Synchronization record with number &5&5 could not be found in table DDLOG
+BU0,"RAL configuration access: Action: &A, type: &B, name &C"
+BU1,Password check failed for user &B in client &A
+BU2,Password changed for user &B in client &A
+BU3,"Security check changed in export: Old value &A, new value &B"
+BU4,"Dynamic ABAP code: Event &A, event type &B, check total &C"
+BU5,ICF recorder entry executed for user &A (activity &B)
+BU6,"ICF recorder entry executed by user &A (&B, &C) (activity &D)."
+BU7,Administration setting was changed for ICF Recorder (Activity: &A)
+BU8,"Virus Scan Interface: Virus ""&C"" found by profile &A (step &B)"
+BU9,"Virus Scan Interface: Error ""&C"" occurred in profile &A (step &B)"
+BUA,"WS: Signature check error (reason &B, WP &C). Refer to Web service log &A."
+BUB,WS: Signature insufficient (WP &C). Refer to Web service log &A.
+BUC,WS: Time stamp is invalid. Refer to Web service log &A.
+BUD,"WS: Delayed logon failed (type &B, WP &C). Refer to Web service log &A."
+BUE,"WS: Delayed logon successful (type &B, WP &C). Refer to Web service log &A."
+BUF,HTTP Security Session Management was activated for client &A.
+BUG,HTTP Security Session Management was deactivated for client &A.
+BUH,HTTP Security Session of user &A (client &B) was hard exited
+BUI,SPNego replay attack detected (UPN=&A)
+BUJ,Non-encrypted &A communication (&B)
+BUK,&A assertion used
+BUL,&A: &B
+BUM,Name ID of a subject
+BUN,Attribute
+BUO,Authentication Assertion
+BUP,&A
+BUQ,Signed LogoutRequest accepted
+BUR,Unsigned LogoutRequest accepted
+BUS,&A: Request without sufficient security characteristic of address &B.
+BUT,CRL download failed with error code &A
+BUU,"Certificate check for subject ""&A"" with profile &B failed (status &C)"
+BUV,Invalid hash value &A. The context contains &B.
+BUW,A refresh token issued to client &A was used by client &B.
+BUX,CCMS method &A was started on destination &B
+BUY,Field contents changed: &5&9&9&9&9&9
+BUZ,"> in program &A, line &B, event &C"
+BV0,Record length of the table &5&5 exceeds the &5&5 bytes maximum.
+BV1,Inconsistent number of blocks in BLOB table &5&5
+BV2,Return value &5 when reading a dynamic string
+BV3,SQL error &5 occurred (possible network problems?). Work process is stopped
+BV4,Work process is in reconnect status
+BV5,Conversion error during &3 database access for table &7&5&5
+BV6,Runtime objects of tables &5&5 and &5&5 have identical UUIDs
+BXA,No logging information in TMCOL for table &9&9&9&3
+BXB,Data record of table &9&9&9&3 already contained in log table &5&5
+BXC,Data record of table &9&9&9&3 does not fit in log table &5&5
+BXD,The log table &5&5 does not match the SAP kernel
+BXE,Log table &5&5 cannot be logged itself
+BXF,Table logging in program &5&5 disabled by user &5&5
+BXG,Key length of matchcode root table exceeds the maximum length
+BY0,> &6&6&6&6&6&6&6&6&6&6
+BY1,Database error &6
+BY2,Database error &6 at &7
+BY3,Database error &6 when accessing table &9&9&9&3
+BY4,Database error &6 with &3 access to table &9&9&9&3
+BY5,Parameter &5&5 missing when calling up database interface
+BY6,READ ONLY view &5&5 cannot be modified
+BY7,Database Operation with Invalid Cursor &5&5
+BY8,All cursors defined
+BY9,Physical table &5&5 for logical table &5&5 is not in the name table
+BYA,Details of database connection &9&9&9&3 could not be read
+BYB,Open SQL statement on structure &5&5 not allowed
+BYC,Field name discrepancy between projection view &5&5 and table &5&5
+BYD,Primary key in view &5&5 and table &5&5 are different
+BYE,Invalid parameter &5&5 passed to database interface
+BYF,Internal error in cluster interface
+BYG,No shared library found for the database with ID &9&9&9&3
+BYH,Invalid access mode &5&5
+BYI,Connect to the database with ID &9&9&9&3 failed
+BYJ,Function &5&5 on connection &5&5 failed
+BYK,SQL statement violates database system restriction
+BYL,Database error &6 requires database administrator to intervene
+BYM,SQL error &6 occurred; work process in reconnect status
+BYN,The description of requirements passed has errors (operator &5&5)
+BYO,Deadlock occurred
+BYP,The long field &5&5 was converted into a SET or WHERE condition
+BYQ,Invalid parameter(s) passed to the database interface
+BYR,Maximum length of the long field of table &5&5 exceeded
+BYS,The work area passed is incorrectly set up
+BYT,The runtime element (nametab) of table &5&5 is invalid
+BYU,The length of complex object &5&5 (&5&5) is inconsistent
+BYV,The number of blocks of complex object &5&5 (&5&5) is inconsistent
+BYW,Occurred in table &5&5
+BYX,Forbidden access to the user master table &5&5 by program &8
+BYY,Work process has left reconnect status
+BYZ,Cluster buffer commit unsuccessful
+BZ0,Invalid operation ID &5&5
+BZ1,Invalid input buffer
+BZ2,Field &5&5 in table &5&5 must be specified in full
+BZ3,Return value &5 not expected
+BZ4,Synchronization of the queue buffer failed due to unsuccessful database commit
+BZ5,No. of columns in table &5&5 exceeds internal limit of &5&5
+BZ6,Nametab of table &5&5 has fewer fields than expected
+BZ7,Storage request (&5&5 bytes) failed
+BZ8,Output buffer (&5&5 bytes) is too small for the record (&5&5 bytes)
+BZ9,Table &5&5 is not in the name table
+BZA,Table &9&9&9&3 does not exist on the database with ID &9&9&9&3
+BZB,The specified access type requires the complete primary key
+BZC,"INSERT, UPDATE and MODIFY in work are mode require the complete record"
+BZD,Table &5&5 : Insertion of key &5&5&5&5&5&5&5&5 results in a duplicate
+BZE,Type conversion for field &9&9&9&3 : &9 not permitted
+BZF,Failed to read a record in table &5&5 in the buffer
+BZG,Failed to load table &5&5 into the buffer
+BZH,Incompletely buffered table &5&5 may not be loaded into buffer
+BZI,Condition in an SQL statement returns the value 'FALSE'
+BZJ,A nametab restriction for cluster tables was violated (table &5&5)
+BZK,UPDATE without SET list
+BZL,Internal error in table buffer: &5&5 &5&5
+BZM,The maximum size allowed for cluster records was exceeded
+BZN,UPDATE of key fields for table &5&5 not permitted
+BZO,Invalid ORDER-BY clause
+BZP,SELECT lists are presently not supported for this table type
+BZQ,Invalid statement mode for &5&5: &5&5
+BZR,Operator &5&5 for field &5&5 not permitted
+BZS,ABAP type &5&5 is unknown
+BZT,Field no. in table &5&5 has no key field in the pool
+BZU,Length info in database > data length in name table
+BZV,Return value &5 when modifying a dynamic string
+BZW,Error &5 during compression/decompression (&5&5)
+BZX,Field &5&5 does not exist in table &5&5
+BZY,Unexpected return value &5 when calling up &5&5
+BZZ,Statement type (&5&5) is only supported on the default database connection
+C00,Reset program was started
+C01,Logon lock for archive was set
+C02,Logon lock for archive was reset
+C40,Plausibility check was deactivated for view &A
+C41,Application &A warns: &B &C &D &E
+CA1,"Unable to buffer factory calendar &A (exception &B, return code &C)"
+CA2,"Unable to buffer public holiday calendar &A (exception &B, return code &C)"
+CB0,ABAP Language Version of class &a not ABAP for Key Users
+CB1,Active version of key user class &a does not exist
+CC1,User SAP* in client &A deleted after canceled client copy
+CF1,Contents of queue &a were changed (details in application log under &b )
+CHQ,&A&B&C&D
+CP0,&B records inserted in table &A: &C
+CP1,&B records changed in table &A: &C
+CP2,"In table &A, there are &B entries"
+CP3,Character set '&A' does not appear in table '&B'
+CP4,"Table TCPDB has &A entries, but MNLS mechanism has state '&B'"
+CP5,&B entries deleted from table &A: &C
+CP6,CCC initialization: &9&9&9&9&9&8
+CP7,Length or address of a text is incorrect: &A
+CP8,Aux. memory of length &A (bytes) not available
+CP9,Invalid parameters: &A &B &C &D &E &F: For code page converter
+CPA,Load CCC (code page &A): Error number &E>B for file &a&b&c&d&e&f&g&h&i
+CPB,The F4 map from &A of table TCP00 does not contain a character set
+CPC,CCC: Read TCP00: error number &E>A in file &a&b&c&d&e&f&g&h&i
+CPD,"Character set ""&A"" is not in F4 memory of &B"
+CPE,"Maximum recursion depth (&B) exceeded after loading character set ""&A"""
+CPF,"h_rscp_use_db is FALSE, but CCC is compiled with DB interface only"
+CPG,"Failed to set environment for language &A, code page &B locale &C"
+CPH,Failed to get environment for language &A
+CPI,Failed to reset language environment
+CPJ,"No GUI code page (language &A, GUI type &B; &C &D )"
+CPK,"Shared memory not stable: lang=&A, code page=&B, &C <> &D : &a&b&c&d&e&f&g&h&i"
+CPL,No code page allowed; required: &B for language &A
+CPM,"ABAP TEXTENV initialization:&D errors already suppressed (lang.=&A, cd.pg.=&B)"
+CPN,Invalid value '&1' for segment '&5' in TCPSEG-KIND
+CPO,Code page '&A' is contained in &B. This is not valid for the current converter
+CPP,SAP character &B is not defined in character set &A
+CPQ,"Code page '&A' is empty, or not completely defined: &B"
+CPR,No code page conversion '&A'->'&B' : &C->&D
+CPS,Active ICU Version &6; Compiled With ICU &6; Unicode Version &6
+CPT,ICU shared libraries will not be used
+CPU,"Table &A Field &B Key &C with Wrong Content ""&D"""
+CPV,Function &9&9&9&9&9&9&9&1 is not yet implemented
+CPW,Input buffer does not have enough bytes for a single character
+CPX,Not even the blank character is known by this code page
+CPY,Table &A is missing in control table &B
+CQ0,-< Reserved for Packages SCP and NLS >-
+CQ1,Language cannot be identified
+CQ2,"Language ""&A"" is not known"
+CQ3,"Table ""&A"" is missing in the database"
+CQ4,Inconsistent software state: &A &B &C &D &E
+CQ5,"Cannot read name tab type ""&B"" for ""&C"". rc=&A"
+CQ6,"Too many different code pages in env. control tables. Cp.=&A, Max.No.=&B"
+CQ7,"Table ""&A"" is empty"
+CQ8,Table '&A' is empty or missing from the database
+CQ9,"Problem with UMGCONTAINER: A=&A, B=&B, C=&C, D=&D"
+CQA,Reading for &B: Error number &>EA for file &a&b&c&d&e&f&g&h&i
+CQB,No database is open; &A cannot be read
+CQC,Function &A is not needed in a Unicode system
+CQD,Code page converter has lost the database connection
+CQE,Code page converter was reinitialized.
+CQF,Alternative name tab entry for table/structure &A is too old: &B < &C
+CQH,SAPPARAM(rsts/ccc/&A) = &B is too big. (Maximum=&C)
+CQI,Inconsistent entry &C between tables &A and &B
+CQJ,Unicode conversion from &A to &C is not possible for database import
+CQK,"UMGCONTAINER specifies an unsuitable field ""&A"": &B , &C , &D"
+CQL,Character size is not known for container handling of &A
+CQM,The &B name tab entry is missing for container field &C
+CQN,Presently no access to database table &A
+CQO,&B contains too many common characters: &A
+CQP,There are no common characters for code pages &A
+CQQ,Code pages to identify common characters are unknown
+CQR,T1 in CCC cache is not formatted for ISO 2022
+CQS,Conflicting requirements of the code page converter
+CR0,"-< CR1 .. CRZ to be used for I18n, code pages, NLS,... >--"
+CS1,Application &B was created by program &A
+CU0,RAL Log Access: Action: &A
+CU1,CU Test Message
+CU2,OAuth 2.0: Invalid access token received (reason=&A)
+CU3,OAuth 2.0: Insufficient OAuth 2.0 scope for requested resource (user=&A)
+CU4,OAuth 2.0: Logged-on client user &A not same as parameter client ID &B
+CU5,OAuth 2.0: Client &A requested invalid access grant type &B
+CU6,OAuth 2.0: Client ID &A in SAML assertion not same as client ID &B in request
+CU7,"OAuth 2.0: Scope &B not permitted for client &C, user &D (cause=&A)"
+CU8,"OAuth 2.0: Access token issued (client=&A, user=&B, grant type=&C)"
+CU9,OAuth 2.0: Valid access token received for user &A (SAP client &B)
+CUA,Rejected Assertion
+CUB,&A: &B
+CUC,&A
+CUD,Name ID of a subject
+CUE,Attribute
+CUF,Authentication assertion
+CUG,Signed LogoutRequest rejected
+CUH,Unsigned LogoutRequest rejected
+CUI,Application &A started
+CUJ,Failed to start application &A (reason =&B)
+CUK,C debugging activated
+CUL,Field content in debugger changed by user &A(&B): &C (&D)
+CUM,Jump to ABAP Debugger by user &A(&B): &C (&D)
+CUN,A process was stopped from the debugger by user &A(&B) (&D)
+CUO,Explicit database operation in debugger by user &A(&B): &C (&D)
+CUP,Non-exclusive debugging session started by user &A(&B) (&D)
+CUQ,Logical file name &A not configured. Physical file name &B not checked.
+CUR,Physical file name &B does not fulfill requirements from logical file name &A
+CUS,Logical file name &B is not a valid alias for logical file name &A
+CUT,Validation for logical file name &A is not active
+CUU,Payload of PI/WS message &A was read | &B
+CUV,"Successful WS Call (service = &A, operation &B)"
+CUW,"Failed Web service call (service = &A, operation = &B, reason = &C)"
+CUX,Payload of postprocessing request &A read
+CUY,> &A
+CUZ,Generic table access by RFC to &A with activity &B
+D01,Transaction canceled &9&9&5 ( &a &b &c &d &e &f &g &h &i )
+D02,DB error Mod:&8(&3) T100:&4 SQL-F:&1 Tab:&9&7 SQL-C:&5(&1)
+D03,Unable to set parameter &A (length &B)
+D04,Area for generating dynpro texts is too small: &A
+D05,"> Dynpro &A &B, language &C"
+D06,INITIALIZATION COMPLETE
+D12,Error creating batch input session $$$$$$$$$$$$
+D13,Error processing batch input session $$$$$$$$$$$$
+D14,> Queue ID: $$$$$$$$$$$$$$$$$$$$
+D15,"> Transaction no. $$$$$, block no. $$$$$"
+D17,"> Queue error, function $$$$$$$, RC $$$, SQL-RC $$$$$"
+D19,> Memory area for dynpro &9&9&9&9&4 &4 is too small
+D1A,"> Separator character in DYNPROTAB line &5, field &4 in position &5"
+D20,> Error in transaction data
+D21,> Error in dynpro data
+D22,> Length error in transaction data
+D23,> Length error in screen data
+D24,> Unable to create batch input log
+D25,> Unable to create batch input log
+D26,Processing Batch Input Folder Canceled
+D27,Batch input log cannot be created
+D28,Error creating batch input log
+D30,Profile variable 'dbs/db2/hosttcp' not found
+D31,Open for file &a&b&c&d failed
+D32,Reason: &a&b&c&d
+D33,&a&b
+D34,JCL submission service: User &1 not found in table DB2JU
+D35,JCL submission service: Error $$$ occurred
+D36,JCL submission service: No connection to OS/390 host
+D37,JCL submission service: No valid host (IP address)
+D38,JCL submission service: No valid user
+D39,JCL submission service: No valid password
+D3A,Database administration(XDB): Could not insert/update table &9
+D3B,DB02: LISTCAT job for HLQ &a ended with JCL condition code &b. Refresh aborted
+D3C,Error &a in SlICLIGetTrace (trying to get directory)
+D3D,Error &a in SlICLIGetTrace (trying to get file &b)
+D3E,Failover to <&A> occurred.
+D3F,&a&b
+D3H,DB2 performance monitor: Error &a occurred
+D3I,DB2/390: Exception &a in SALI function module
+D3J,Database administration(XDB): Could not get the current DB2 system id.
+D3S,&a&b
+D40,RSDB2MAS: conversion of table &A cancelled
+D41,DB2 version >= 7.1; RUNSTATS and other DB2 utilities may not be available!
+D42,DB2 version >= 7.1; the following DB2 utilities are available:
+D43,&A &B &C &D &E
+D44,DB2 utility &A is not available
+D45,Output of &A
+D46,DB2 version <= 6.1; all DB2 utilities on board!
+D51,The database monitor was not started (&A)
+D52,Package Overflow Handled (&A)
+D60,Reserved for DB6
+D61,Function &a failed for &b . Reason: &c
+D62,Access to database &a via Command Line Processor (see DBA Cockpit Audit Log)
+D63,&a: &b (see SLG1 object DBACOCKPIT)
+DA1,&A '&B' was deleted
+DB0,Internal error when deleting DDLOG entries
+DCL,"ACM Runtime exception: &A, &B, &C"
+DD1,DICT SQL error during $$$$$$$$$$$
+DD2,DICT DDERR $$$$$$$$$$$ returned
+DD3,"DDIC function ""Unlock table"" executed for table &A."
+DD4,No errors/warnings detected in SICK check for DCVs
+DD5,Problems were detected in prerequisites for DCVs
+DF1,Error occurred: &A
+DF2,Maximum number of ABAP Daemons reached (&a Daemons started)
+DF3,Restart of ABAP Daemon &a (&b) after error: &c (&d)
+FU9,Virus Scan
+DU9,Failed Authentication
+FU9,Generic Table Access

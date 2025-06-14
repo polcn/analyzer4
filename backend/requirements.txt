@@ -1,0 +1,6 @@
+pandas==2.0.3
+openpyxl==3.1.2
+boto3==1.28.62
+pytest==7.4.2
+pytest-cov==4.1.0
+moto==4.2.5  # For testing AWS services

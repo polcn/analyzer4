@@ -1,0 +1,39 @@
+Activity Code,Description
+1,Create
+2,Change
+3,Display
+4,Print
+5,Lock
+6,Delete
+8,Display Change Documents
+9,Display Prices
+10,Post
+16,Execute
+22,"Enter, Include, Assign"
+23,Maintain
+24,Archive
+25,Reload
+26,Change customer account group
+32,Save
+33,Read
+34,Write
+40,Create in DB
+41,Delete in DB
+43,Release
+60,Import
+61,Export
+63,Activate
+64,Generate
+70,Administer
+75,Remove
+76,Enter
+84,Settle
+85,Reverse
+90,Copy
+95,Unlock
+96,Reject
+A3,Change status
+DL,Download
+G2,Billing
+G5,Park
+UL,Upload

@@ -1,0 +1,146 @@
+.results-container {
+  width: 100%;
+  max-width: 800px;
+}
+
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.results-header h2 {
+  margin: 0;
+  color: #333;
+}
+
+.new-analysis-btn {
+  padding: 0.75rem 1.5rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.new-analysis-btn:hover {
+  background-color: #45a049;
+}
+
+.results-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+  .results-summary {
+    grid-template-columns: 1fr;
+  }
+}
+
+.summary-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.summary-card h3 {
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.summary-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-label {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.25rem;
+}
+
+.stat-value {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.stat-value.flagged {
+  color: #ff6b6b;
+}
+
+.flag-counts {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.flag-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+
+.flag-name {
+  font-size: 0.875rem;
+  text-transform: capitalize;
+  color: #555;
+}
+
+.flag-count {
+  font-weight: 600;
+  color: #333;
+}
+
+.download-section {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #2196F3;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #1976D2;
+}
+
+.results-details {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.results-details h3 {
+  margin: 0 0 1rem 0;
+  color: #333;
+}
+
+.details-content p {
+  margin: 0.5rem 0;
+  color: #666;
+}

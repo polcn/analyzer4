@@ -1,0 +1,6 @@
+Field,Field Description
+KEY,Key Fields of changed object
+TDUHR,"Transportation Planning Time (Local, Relating to a Shipping Point)"
+TDUHR,"Transportation Planning Time (Local, Relating to a Shipping Point) in Scheduling Agreements"
+VLSTK,Distribution status of delivery
+VLSTK,Shipment distribution status

@@ -1,0 +1,94 @@
+.upload-container {
+  width: 100%;
+  max-width: 600px;
+}
+
+.file-type-selector {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.file-type-selector label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.file-type-selector select {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.dropzone {
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  padding: 3rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background-color: white;
+}
+
+.dropzone:hover {
+  border-color: #999;
+}
+
+.dropzone.active {
+  border-color: #4CAF50;
+  background-color: #f0f8f0;
+}
+
+.dropzone.disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.dropzone p {
+  margin: 0.5rem 0;
+}
+
+.dropzone .alternative {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.dropzone .formats {
+  color: #999;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.error-message {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #fee;
+  border: 1px solid #fcc;
+  border-radius: 4px;
+  color: #c33;
+}

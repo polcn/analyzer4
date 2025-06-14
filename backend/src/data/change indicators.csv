@@ -1,0 +1,4 @@
+Change Indicator,Description,Long Description
+I,Insert,"This indicates the creation of a new data record or a new line item within a document. For example, adding a new item to a sales order or creating a new entry in a table."
+U,Update,This signifies that an existing data field was changed. The CDPOS entry will show both the old and new values for the updated field.
+D,Delete,"This shows that a line item or a data record was deleted. For instance, removing an item from a purchase order."
