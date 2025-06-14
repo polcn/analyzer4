@@ -2,12 +2,13 @@
 
 ## Prerequisites
 
-1. **AWS Account** with appropriate permissions
-2. **AWS CLI** configured with credentials
-3. **Node.js 18+** and **npm**
-4. **Python 3.12+**
+1. **AWS Account** with appropriate permissions (AdministratorAccess or custom policy)
+2. **AWS CLI** configured with credentials: `aws configure`
+3. **Node.js 18+** and **npm**: [Download](https://nodejs.org/)
+4. **Python 3.12+**: [Download](https://www.python.org/)
 5. **AWS CDK CLI**: `npm install -g aws-cdk`
-6. **Domain** (optional, for custom domain setup)
+6. **Git**: For cloning the repository
+7. **Domain** (optional, for custom domain setup)
 
 ## Quick Deployment
 
@@ -59,19 +60,51 @@ REACT_APP_API_URL=https://your-api-gateway-url
 REACT_APP_S3_BUCKET=sapanalyzer4-data-account-region
 ```
 
-### Custom Domain Setup
+### Custom Domain Setup (GoDaddy)
 
-1. **Route 53 Hosted Zone**: Create if not exists
-2. **ACM Certificate**: Request certificate for your domain
-3. **Update CDK Stack**: Add custom domain configuration
+#### Option 1: Use GoDaddy with Route 53 (Recommended)
+1. **Create Route 53 Hosted Zone**:
+   ```bash
+   aws route53 create-hosted-zone --name yourdomain.com --caller-reference $(date +%s)
+   ```
 
-```typescript
-// In sapanalyzer4-stack.ts
-const customDomain = new apigateway.DomainName(this, 'CustomDomain', {
-  domainName: 'api.yourdomain.com',
-  certificate: acm.Certificate.fromCertificateArn(this, 'Cert', 'arn:aws:acm:...')
-});
-```
+2. **Update GoDaddy Nameservers**:
+   - Log into GoDaddy
+   - Go to DNS Management
+   - Change nameservers to Route 53 NS records
+
+3. **Request ACM Certificate**:
+   ```bash
+   aws acm request-certificate --domain-name yourdomain.com --validation-method DNS
+   ```
+
+4. **Update CDK Stack**:
+   ```typescript
+   // In sapanalyzer4-stack.ts
+   import * as acm from 'aws-cdk-lib/aws-certificatemanager';
+   import * as route53 from 'aws-cdk-lib/aws-route53';
+   
+   const zone = route53.HostedZone.fromLookup(this, 'Zone', {
+     domainName: 'yourdomain.com'
+   });
+   
+   const certificate = new acm.Certificate(this, 'Certificate', {
+     domainName: 'yourdomain.com',
+     validation: acm.CertificateValidation.fromDns(zone),
+   });
+   
+   distribution.addBehavior('/*', new origins.S3Origin(websiteBucket), {
+     viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+   });
+   ```
+
+#### Option 2: Keep DNS at GoDaddy
+1. **Request ACM Certificate** (us-east-1 only for CloudFront)
+2. **Add CNAME records** in GoDaddy for validation
+3. **After deployment**, add CNAME for CloudFront:
+   - Type: CNAME
+   - Name: www (or subdomain)
+   - Value: [CloudFront-Distribution-URL]
 
 ## Cost Optimization
 
